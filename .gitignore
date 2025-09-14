@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Data files (large files)
+*.tif
+*.tiff
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.qpj
+*.nc
+*.hdf
+*.h5
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.temp
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Output directories
+output/
+results/
+数据/
+
+# Config files with sensitive info
+config.ini
+secrets.json
+.env
