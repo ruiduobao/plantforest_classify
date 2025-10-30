@@ -1,0 +1,5 @@
+﻿year,total_pixels,changed_pixels,unchanged_pixels,change_ratio,original_file,optimized_file
+2021,250000,12500,237500,5.0,sample_landcover_2021.tif,sample_optimized_landcover_2021.tif
+2022,250000,12500,237500,5.0,sample_landcover_2022.tif,sample_optimized_landcover_2022.tif
+2023,250000,12500,237500,5.0,sample_landcover_2023.tif,sample_optimized_landcover_2023.tif
+2024,250000,12500,237500,5.0,sample_landcover_2024.tif,sample_optimized_landcover_2024.tif

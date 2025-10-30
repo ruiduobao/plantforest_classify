@@ -1,0 +1,120 @@
+﻿attribute,value,count,contains_槟榔
+common_name,Unknown,1201466,否
+common_name,Oil Palm,778480,否
+common_name,Mangrove,34882,否
+common_name,Acacia/Wattle,32704,否
+common_name,Bamboo,20039,否
+common_name,Acacia/Wattle mix,16158,否
+common_name,"Oil Palm, Rubber",15355,否
+common_name,Rubber,10325,否
+common_name,Eucalyptus,6217,否
+common_name,"Oil Palm, Fruit",4603,否
+common_name,Fruit,3794,否
+common_name,"Palm, Coconut Palm",3024,否
+common_name,Coconut Palm,1015,否
+common_name,Oil Palm Mix,837,否
+common_name,"Coconut Palm, Areca Palm",705,否
+common_name,Rubber Mix,656,否
+common_name,"Oil Palm, Coconut Palm",589,否
+common_name,"Oil Palm, Areca Palm",578,否
+common_name,Pine,465,否
+common_name,Coconut Palm Mix,312,否
+common_name,"Rubber, Fruit",213,否
+common_name,"Rubber, Acacia/Wattle",156,否
+common_name,"Oil Palm, Acacia/Wattle",141,否
+common_name,Teak,138,否
+common_name,"Oil Palm, Banana",113,否
+common_name,"Oil Palm, Cacao",113,否
+common_name,"Rubber, Coconut Palm",111,否
+common_name,Coffee,82,否
+common_name,Areca Palm,61,否
+common_name,"Fruit, Areca Palm",49,否
+common_name,Palm,45,否
+common_name,"Rubber, Areca Palm",13,否
+common_name,Cacao,11,否
+common_name,Coffee Mix,10,否
+common_name,"Coconut Palm, Fruit",10,否
+common_name,"Fruit, Cacao",10,否
+common_name,"Rubber, Teak",8,否
+common_name,Albizia Mix,7,否
+common_name,"Rubber, Coffee",6,否
+common_name,"Rubber, Pine",6,否
+common_name,"Rubber, Eucalyptus",4,否
+common_name,Fruit Mix,4,否
+common_name,"Acacia/Wattle, Teak",4,否
+common_name,Pine Mix,4,否
+common_name,"Coffee, Acacia/Wattle",2,否
+common_name,Teak Mix,2,否
+common_name,"Fruit, Oil Palm",2,否
+common_name,"Rubber, Mango",1,否
+common_name,"Rubber, Oil Palm",1,否
+common_name,"Pine, Acacia/Wattle",1,否
+common_name,"Teak, Cadam",1,否
+common_name,"Coffee, Albizia",1,否
+common_name,"Coffee, Oil Palm",1,否
+common_name,Pecan,1,否
+common_name,"Oil Palm, Eucalyptus",1,否
+common_name,Clove,1,否
+species,Unknown,1260226,否
+species,Elaeis guineensis,778480,否
+species,Acacia sp.,32704,否
+species,Acacia sp. mix,16158,否
+species,"Elaeis guineensis, Hevea brasiliensis",15355,否
+species,Hevea brasiliensis,10325,否
+species,Eucalyptus sp.,6217,否
+species,"Elaeis guineensis, Unknown",4603,否
+species,"Unknown, Cocos nucifera",3024,否
+species,Cocos nucifera,1015,否
+species,Elaeis guineensis Mix,837,否
+species,"Cocos nucifera, Areca sp.",705,否
+species,Hevea brasiliensis Mix,656,否
+species,"Elaeis guineensis, Cocos nucifera",589,否
+species,"Elaeis guineensis, Areca sp.",578,否
+species,Pinus sp.,465,否
+species,Cocos nucifera Mix,312,否
+species,"Hevea brasiliensis, Unknown",213,否
+species,"Hevea brasiliensis, Acacia sp.",156,否
+species,"Elaeis guineensis, Acacia sp.",141,否
+species,Tectona sp.,138,否
+species,"Elaeis guineensis, Musa sp.",113,否
+species,"Elaeis guineensis, Theobroma cacao",113,否
+species,"Hevea brasiliensis, Cocos nucifera",111,否
+species,Coffea sp.,82,否
+species,Areca sp.,61,否
+species,"Unknown, Areca sp.",49,否
+species,"Hevea brasiliensis, Areca sp.",13,否
+species,Theobroma cacao,11,否
+species,Coffea sp. Mix,10,否
+species,"Cocos nucifera, Unknown",10,否
+species,"Unknown, Theobroma cacao",10,否
+species,"Hevea brasiliensis, Tectona sp.",8,否
+species,Paraserianthes sp. Mix,7,否
+species,"Hevea brasiliensis, Coffea sp.",6,否
+species,"Hevea brasiliensis, Pinus sp.",6,否
+species,"Hevea brasiliensis, Eucalyptus sp.",4,否
+species,Unknown Mix,4,否
+species,"Acacia sp., Tectona sp.",4,否
+species,Pinus sp. Mix,4,否
+species,"Coffea sp., Acacia sp.",2,否
+species,Tectona sp. Mix,2,否
+species,"Unknown, Elaeis guineensis",2,否
+species,"Hevea brasiliensis, Mangifera sp.",1,否
+species,"Hevea brasiliensis, Elaeis guineensis",1,否
+species,"Pinus sp., Acacia sp.",1,否
+species,"Tectona sp., Neolamarckia cadamba",1,否
+species,"Coffea sp., Paraserianthes sp.",1,否
+species,"Coffea sp., Elaeis guineensis",1,否
+species,Carya illinoinensis,1,否
+species,"Elaeis guineensis, Eucalyptus sp.",1,否
+species,Syzygium aromaticum,1,否
+species_simp,Unknown,1154482,否
+species_simp,Oil Palm,778480,否
+species_simp,Wood fiber / timber,157634,否
+species_simp,Rubber Mix,13082,否
+species_simp,Rubber,10325,否
+species_simp,Fruit Mix,6135,否
+species_simp,Fruit,5290,否
+species_simp,Oil Palm Mix,4769,否
+species_simp,Unknown Mix,3024,否
+species_simp,Wood fiber / timber Mix,316,否
+species_simp,Other,1,否

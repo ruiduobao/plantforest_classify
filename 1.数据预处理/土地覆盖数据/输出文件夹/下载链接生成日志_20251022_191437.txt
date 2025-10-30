@@ -1,0 +1,33 @@
+2025-10-22 19:14:37,581 - INFO - 开始生成土地覆盖数据下载链接（基于用户指定的UTM区域）
+2025-10-22 19:14:37,581 - INFO - 指定的UTM区域组合数量: 36
+2025-10-22 19:14:37,581 - INFO - UTM区域组合: [(46, 'N'), (46, 'P'), (46, 'Q'), (46, 'R'), (47, 'M'), (47, 'N'), (47, 'P'), (47, 'Q'), (47, 'R'), (48, 'M'), (48, 'N'), (48, 'P'), (48, 'Q'), (49, 'L'), (49, 'M'), (49, 'N'), (49, 'P'), (49, 'Q'), (50, 'L'), (50, 'M'), (50, 'N'), (50, 'P'), (50, 'Q'), (51, 'L'), (51, 'M'), (51, 'N'), (51, 'P'), (51, 'Q'), (52, 'L'), (52, 'M'), (52, 'N'), (52, 'P'), (53, 'L'), (53, 'M'), (54, 'L'), (54, 'M')]
+2025-10-22 19:14:37,581 - INFO - 年份范围: [2017, 2018, 2019, 2020, 2021, 2022, 2023]
+2025-10-22 19:14:37,581 - INFO - 总共需要生成 252 个下载链接
+2025-10-22 19:14:37,582 - INFO - 已生成 50/252 个链接
+2025-10-22 19:14:37,582 - INFO - 已生成 100/252 个链接
+2025-10-22 19:14:37,582 - INFO - 已生成 150/252 个链接
+2025-10-22 19:14:37,582 - INFO - 已生成 200/252 个链接
+2025-10-22 19:14:37,582 - INFO - 已生成 250/252 个链接
+2025-10-22 19:14:37,582 - INFO - 链接生成完成，总共生成了 252 个下载链接
+2025-10-22 19:14:37,582 - INFO - 
+显示前 15 个下载链接示例:
+2025-10-22 19:14:37,582 - INFO - --------------------------------------------------------------------------------
+2025-10-22 19:14:37,582 - INFO -  1. lulctimeseries.blob.core.windows.net/lulctimeseriesv003/lc2017/46N_20170101-20180101.tif
+2025-10-22 19:14:37,582 - INFO -  2. lulctimeseries.blob.core.windows.net/lulctimeseriesv003/lc2017/46P_20170101-20180101.tif
+2025-10-22 19:14:37,583 - INFO -  3. lulctimeseries.blob.core.windows.net/lulctimeseriesv003/lc2017/46Q_20170101-20180101.tif
+2025-10-22 19:14:37,583 - INFO -  4. lulctimeseries.blob.core.windows.net/lulctimeseriesv003/lc2017/46R_20170101-20180101.tif
+2025-10-22 19:14:37,583 - INFO -  5. lulctimeseries.blob.core.windows.net/lulctimeseriesv003/lc2017/47M_20170101-20180101.tif
+2025-10-22 19:14:37,583 - INFO -  6. lulctimeseries.blob.core.windows.net/lulctimeseriesv003/lc2017/47N_20170101-20180101.tif
+2025-10-22 19:14:37,583 - INFO -  7. lulctimeseries.blob.core.windows.net/lulctimeseriesv003/lc2017/47P_20170101-20180101.tif
+2025-10-22 19:14:37,583 - INFO -  8. lulctimeseries.blob.core.windows.net/lulctimeseriesv003/lc2017/47Q_20170101-20180101.tif
+2025-10-22 19:14:37,583 - INFO -  9. lulctimeseries.blob.core.windows.net/lulctimeseriesv003/lc2017/47R_20170101-20180101.tif
+2025-10-22 19:14:37,583 - INFO - 10. lulctimeseries.blob.core.windows.net/lulctimeseriesv003/lc2017/48M_20170101-20180101.tif
+2025-10-22 19:14:37,583 - INFO - 11. lulctimeseries.blob.core.windows.net/lulctimeseriesv003/lc2017/48N_20170101-20180101.tif
+2025-10-22 19:14:37,583 - INFO - 12. lulctimeseries.blob.core.windows.net/lulctimeseriesv003/lc2017/48P_20170101-20180101.tif
+2025-10-22 19:14:37,584 - INFO - 13. lulctimeseries.blob.core.windows.net/lulctimeseriesv003/lc2017/48Q_20170101-20180101.tif
+2025-10-22 19:14:37,584 - INFO - 14. lulctimeseries.blob.core.windows.net/lulctimeseriesv003/lc2017/49L_20170101-20180101.tif
+2025-10-22 19:14:37,584 - INFO - 15. lulctimeseries.blob.core.windows.net/lulctimeseriesv003/lc2017/49M_20170101-20180101.tif
+2025-10-22 19:14:37,584 - INFO - ... (还有 237 个链接)
+2025-10-22 19:14:37,584 - INFO - --------------------------------------------------------------------------------
+2025-10-22 19:14:37,585 - INFO - 下载链接已保存到文件: 输出文件夹\土地覆盖数据下载链接_20251022_191437.txt
+2025-10-22 19:14:37,585 - INFO - 日志文件位置: 输出文件夹\下载链接生成日志_20251022_191437.txt

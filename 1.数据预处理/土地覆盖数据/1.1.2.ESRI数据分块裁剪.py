@@ -153,9 +153,9 @@ def main():
     主函数
     """
     # 定义路径
-    input_dir = r"K:\地理所\论文\东南亚10m人工林提取\数据\ESRI_2024\东南亚区域的分块_范围"
-    output_dir = r"K:\地理所\论文\东南亚10m人工林提取\数据\ESRI_2024\东南亚区域的分块_范围_裁剪"
-    clip_shapefile = r"K:\数据\GDAM全球\东南亚国家\southeast_asia_combine.shp"
+    input_dir = r"D:\地理所\论文\东南亚10m人工林提取\数据\ESRI_2017_2023\2018年"
+    output_dir = r"D:\地理所\论文\东南亚10m人工林提取\数据\ESRI_2017_20233\2018年_分块裁剪"
+    clip_shapefile = r"D:\地理所\论文\东南亚10m人工林提取\数据\东南亚国家\southeast_asia_combine.shp"
     
     # 创建输出目录
     os.makedirs(output_dir, exist_ok=True)

@@ -1,0 +1,3375 @@
+﻿point_id,num_observations,num_breaks,break_dates,time_span_years,status
+1412087,246,0,,36.50924024640657,no_breaks_detected
+1412089,242,0,,36.290212183436005,no_breaks_detected
+1412091,247,0,,36.290212183436005,no_breaks_detected
+1412092,286,0,,36.290212183436005,no_breaks_detected
+1412093,228,0,,36.421629021218344,no_breaks_detected
+1412094,206,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412097,242,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412098,250,0,,36.31211498973306,no_breaks_detected
+1412102,220,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412104,267,0,,36.290212183436005,no_breaks_detected
+1412107,283,0,,36.50924024640657,no_breaks_detected
+1412110,267,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412111,265,0,,36.50924024640657,no_breaks_detected
+1412112,233,0,,36.18069815195072,no_breaks_detected
+1412113,262,0,,36.50924024640657,no_breaks_detected
+1412115,294,0,,36.31211498973306,no_breaks_detected
+1412118,267,0,,36.290212183436005,no_breaks_detected
+1412120,241,0,,36.50924024640657,no_breaks_detected
+1412122,262,0,,36.290212183436005,no_breaks_detected
+1412125,250,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412128,270,0,,36.290212183436005,no_breaks_detected
+1412129,241,0,,36.50924024640657,no_breaks_detected
+1412130,255,0,,36.50924024640657,no_breaks_detected
+1412131,244,0,,36.290212183436005,no_breaks_detected
+1412132,241,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412133,269,0,,36.290212183436005,no_breaks_detected
+1412134,250,0,,36.290212183436005,no_breaks_detected
+1412143,261,0,,36.39972621492129,no_breaks_detected
+1412145,246,0,,36.421629021218344,no_breaks_detected
+1412147,263,0,,36.50924024640657,no_breaks_detected
+1412150,245,0,,36.421629021218344,no_breaks_detected
+1412151,239,0,,36.224503764544835,no_breaks_detected
+1412153,267,0,,36.290212183436005,no_breaks_detected
+1412154,250,0,,36.50924024640657,no_breaks_detected
+1412155,236,0,,36.421629021218344,no_breaks_detected
+1412156,265,0,,36.290212183436005,no_breaks_detected
+1412157,206,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412158,268,0,,36.290212183436005,no_breaks_detected
+1412160,259,0,,36.50924024640657,no_breaks_detected
+1412164,248,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412166,234,0,,36.31211498973306,no_breaks_detected
+1412167,247,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412168,278,0,,36.290212183436005,no_breaks_detected
+1412179,295,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412181,279,0,,36.290212183436005,no_breaks_detected
+1412182,235,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412183,264,0,,36.290212183436005,no_breaks_detected
+1412184,266,0,,36.290212183436005,no_breaks_detected
+1412186,256,0,,36.50924024640657,no_breaks_detected
+1412188,270,0,,36.290212183436005,no_breaks_detected
+1412189,227,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412193,229,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412194,282,0,,36.31211498973306,no_breaks_detected
+1412196,271,0,,36.18069815195072,no_breaks_detected
+1412197,268,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412199,212,0,,36.50924024640657,no_breaks_detected
+1412200,264,0,,36.290212183436005,no_breaks_detected
+1412201,238,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412204,270,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412207,247,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412210,238,0,,36.50924024640657,no_breaks_detected
+1412212,265,0,,36.421629021218344,no_breaks_detected
+1412214,302,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412218,249,0,,36.290212183436005,no_breaks_detected
+1412219,237,0,,36.290212183436005,no_breaks_detected
+1412223,272,0,,36.290212183436005,no_breaks_detected
+1412225,241,0,,36.421629021218344,no_breaks_detected
+1412227,251,0,,36.290212183436005,no_breaks_detected
+1412231,269,0,,36.50924024640657,no_breaks_detected
+1412232,223,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412233,259,0,,36.50924024640657,no_breaks_detected
+1412235,231,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412236,264,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412238,252,0,,36.421629021218344,no_breaks_detected
+1412240,234,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412241,243,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412243,258,0,,36.50924024640657,no_breaks_detected
+1412244,332,0,,36.50924024640657,no_breaks_detected
+1412247,259,0,,36.50924024640657,no_breaks_detected
+1412249,252,0,,36.290212183436005,no_breaks_detected
+1412251,224,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412252,217,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412253,269,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412254,262,0,,36.290212183436005,no_breaks_detected
+1412255,233,0,,36.421629021218344,no_breaks_detected
+1412262,266,0,,36.290212183436005,no_breaks_detected
+1412263,240,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412264,261,0,,36.50924024640657,no_breaks_detected
+1412267,265,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412268,256,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412270,255,0,,36.50924024640657,no_breaks_detected
+1412273,268,0,,36.50924024640657,no_breaks_detected
+1412274,232,0,,36.421629021218344,no_breaks_detected
+1412275,268,0,,36.290212183436005,no_breaks_detected
+1412277,274,0,,36.50924024640657,no_breaks_detected
+1412279,271,0,,36.290212183436005,no_breaks_detected
+1412281,262,0,,36.290212183436005,no_breaks_detected
+1412282,260,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412285,262,0,,36.290212183436005,no_breaks_detected
+1412286,240,0,,36.50924024640657,no_breaks_detected
+1412289,273,0,,36.290212183436005,no_breaks_detected
+1412290,258,0,,36.355920602327174,no_breaks_detected
+1412291,271,0,,36.290212183436005,no_breaks_detected
+1412293,260,0,,36.290212183436005,no_breaks_detected
+1412295,275,0,,36.290212183436005,no_breaks_detected
+1412297,259,0,,36.355920602327174,no_breaks_detected
+1412299,218,0,,36.421629021218344,no_breaks_detected
+1412300,249,0,,36.421629021218344,no_breaks_detected
+1412302,280,0,,36.50924024640657,no_breaks_detected
+1412303,265,0,,36.290212183436005,no_breaks_detected
+1412305,221,0,,36.39972621492129,no_breaks_detected
+1412308,258,0,,36.290212183436005,no_breaks_detected
+1412309,252,0,,36.31211498973306,no_breaks_detected
+1412310,234,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412311,256,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412312,225,0,,36.4435318275154,no_breaks_detected
+1412314,244,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412316,200,0,,36.290212183436005,no_breaks_detected
+1412317,247,0,,36.50924024640657,no_breaks_detected
+1412322,257,0,,36.421629021218344,no_breaks_detected
+1412324,275,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412328,234,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412329,264,0,,36.4435318275154,no_breaks_detected
+1412330,281,0,,36.290212183436005,no_breaks_detected
+1412331,207,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412332,270,0,,36.290212183436005,no_breaks_detected
+1412338,225,0,,36.50924024640657,no_breaks_detected
+1412340,276,0,,36.290212183436005,no_breaks_detected
+1412341,234,0,,36.290212183436005,no_breaks_detected
+1412342,281,0,,36.290212183436005,no_breaks_detected
+1412343,259,0,,36.290212183436005,no_breaks_detected
+1412344,265,0,,36.39972621492129,no_breaks_detected
+1412350,258,0,,36.421629021218344,no_breaks_detected
+1412351,272,0,,36.07118412046543,no_breaks_detected
+1412352,262,0,,36.50924024640657,no_breaks_detected
+1412358,245,0,,36.290212183436005,no_breaks_detected
+1412366,274,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412369,265,0,,36.290212183436005,no_breaks_detected
+1412375,269,0,,36.50924024640657,no_breaks_detected
+1412376,263,0,,36.355920602327174,no_breaks_detected
+1412377,244,0,,36.421629021218344,no_breaks_detected
+1412379,273,0,,36.50924024640657,no_breaks_detected
+1412380,273,0,,36.290212183436005,no_breaks_detected
+1412381,274,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412382,261,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412386,240,0,,36.18069815195072,no_breaks_detected
+1412392,272,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412396,258,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412397,256,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412398,238,0,,36.18069815195072,no_breaks_detected
+1412400,259,0,,36.290212183436005,no_breaks_detected
+1412406,238,0,,36.290212183436005,no_breaks_detected
+1412407,252,0,,36.50924024640657,no_breaks_detected
+1412408,268,0,,36.290212183436005,no_breaks_detected
+1412409,225,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412410,223,0,,36.31211498973306,no_breaks_detected
+1412412,245,0,,36.421629021218344,no_breaks_detected
+1412419,276,0,,36.290212183436005,no_breaks_detected
+1412423,251,0,,36.50924024640657,no_breaks_detected
+1412426,226,0,,36.290212183436005,no_breaks_detected
+1412428,226,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412431,286,0,,36.421629021218344,no_breaks_detected
+1412433,281,0,,36.290212183436005,no_breaks_detected
+1412435,243,0,,36.50924024640657,no_breaks_detected
+1412439,266,0,,36.290212183436005,no_breaks_detected
+1412441,263,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412443,276,0,,36.290212183436005,no_breaks_detected
+1412444,250,0,,36.50924024640657,no_breaks_detected
+1412446,249,0,,36.421629021218344,no_breaks_detected
+1412448,239,0,,36.355920602327174,no_breaks_detected
+1412449,282,0,,36.4435318275154,no_breaks_detected
+1412451,229,0,,36.421629021218344,no_breaks_detected
+1412452,235,0,,36.421629021218344,no_breaks_detected
+1412453,242,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412454,255,0,,36.290212183436005,no_breaks_detected
+1412455,247,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412456,276,0,,36.290212183436005,no_breaks_detected
+1412459,253,0,,36.50924024640657,no_breaks_detected
+1412460,287,0,,36.421629021218344,no_breaks_detected
+1412461,266,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412462,262,0,,36.290212183436005,no_breaks_detected
+1412463,266,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412469,238,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412470,262,0,,36.290212183436005,no_breaks_detected
+1412471,278,0,,36.290212183436005,no_breaks_detected
+1412472,218,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412475,251,0,,36.290212183436005,no_breaks_detected
+1412476,240,0,,36.224503764544835,no_breaks_detected
+1412477,265,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412479,261,0,,36.50924024640657,no_breaks_detected
+1412482,273,0,,36.290212183436005,no_breaks_detected
+1412484,265,0,,36.39972621492129,no_breaks_detected
+1412485,268,0,,36.290212183436005,no_breaks_detected
+1412486,273,0,,36.290212183436005,no_breaks_detected
+1412488,265,0,,36.290212183436005,no_breaks_detected
+1412489,280,0,,36.290212183436005,no_breaks_detected
+1412490,282,0,,36.50924024640657,no_breaks_detected
+1412491,217,0,,36.290212183436005,no_breaks_detected
+1412492,250,0,,36.290212183436005,no_breaks_detected
+1412493,251,0,,36.50924024640657,no_breaks_detected
+1412494,268,0,,36.50924024640657,no_breaks_detected
+1412496,223,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412498,246,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412500,234,0,,36.290212183436005,no_breaks_detected
+1412504,250,0,,36.290212183436005,no_breaks_detected
+1412505,220,0,,36.224503764544835,no_breaks_detected
+1412507,268,0,,36.50924024640657,no_breaks_detected
+1412509,299,0,,36.50924024640657,no_breaks_detected
+1412510,265,0,,36.18069815195072,no_breaks_detected
+1412515,221,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412516,221,0,,36.290212183436005,no_breaks_detected
+1412517,232,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412520,254,0,,36.224503764544835,no_breaks_detected
+1412522,283,0,,36.290212183436005,no_breaks_detected
+1412526,257,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412527,250,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412530,245,0,,36.421629021218344,no_breaks_detected
+1412535,282,0,,36.290212183436005,no_breaks_detected
+1412536,229,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412538,241,0,,36.290212183436005,no_breaks_detected
+1412541,251,0,,36.421629021218344,no_breaks_detected
+1412542,279,0,,36.290212183436005,no_breaks_detected
+1412544,255,0,,36.290212183436005,no_breaks_detected
+1412546,265,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412547,266,0,,36.421629021218344,no_breaks_detected
+1412549,233,0,,36.50924024640657,no_breaks_detected
+1412554,254,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412557,268,0,,36.50924024640657,no_breaks_detected
+1412564,201,0,,36.50924024640657,no_breaks_detected
+1412566,260,0,,36.50924024640657,no_breaks_detected
+1412568,237,0,,36.290212183436005,no_breaks_detected
+1412570,241,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412572,245,0,,36.290212183436005,no_breaks_detected
+1412574,252,0,,36.31211498973306,no_breaks_detected
+1412575,233,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412577,246,0,,36.50924024640657,no_breaks_detected
+1412578,252,0,,36.290212183436005,no_breaks_detected
+1412581,259,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412582,228,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412584,256,0,,36.290212183436005,no_breaks_detected
+1412587,243,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412588,258,0,,36.290212183436005,no_breaks_detected
+1412589,267,0,,36.50924024640657,no_breaks_detected
+1412592,267,0,,36.290212183436005,no_breaks_detected
+1412593,260,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412594,257,0,,36.290212183436005,no_breaks_detected
+1412596,294,0,,36.421629021218344,no_breaks_detected
+1412597,246,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412599,262,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412602,226,0,,36.18069815195072,no_breaks_detected
+1412603,261,0,,36.290212183436005,no_breaks_detected
+1412607,260,0,,36.290212183436005,no_breaks_detected
+1412611,273,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412613,272,0,,36.290212183436005,no_breaks_detected
+1412616,256,0,,36.290212183436005,no_breaks_detected
+1412618,243,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412619,253,0,,36.290212183436005,no_breaks_detected
+1412623,255,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412625,277,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412626,238,0,,36.290212183436005,no_breaks_detected
+1412627,264,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412629,241,0,,36.290212183436005,no_breaks_detected
+1412632,242,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412633,245,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412634,267,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412635,267,0,,36.290212183436005,no_breaks_detected
+1412638,238,0,,36.290212183436005,no_breaks_detected
+1412639,251,0,,36.18069815195072,no_breaks_detected
+1412640,277,0,,36.290212183436005,no_breaks_detected
+1412641,247,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412642,259,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412647,245,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412651,236,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412656,271,0,,36.50924024640657,no_breaks_detected
+1412662,274,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412664,233,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412665,245,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412668,264,0,,36.355920602327174,no_breaks_detected
+1412669,236,0,,36.290212183436005,no_breaks_detected
+1412670,270,0,,36.18069815195072,no_breaks_detected
+1412671,251,0,,36.290212183436005,no_breaks_detected
+1412672,267,0,,36.50924024640657,no_breaks_detected
+1412673,239,0,,35.85215605749487,no_breaks_detected
+1412674,266,0,,36.290212183436005,no_breaks_detected
+1412675,229,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412676,292,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412681,260,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412682,241,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412683,259,0,,36.355920602327174,no_breaks_detected
+1412844,289,0,,36.421629021218344,no_breaks_detected
+1412867,233,-1,,0.0,error: S-CCD function fails for pos = 1 
+1412871,271,0,,36.421629021218344,no_breaks_detected
+1412935,281,0,,36.50924024640657,no_breaks_detected
+1413026,299,0,,36.421629021218344,no_breaks_detected
+1413089,277,0,,36.421629021218344,no_breaks_detected
+1413293,545,0,,36.903490759753595,no_breaks_detected
+1413294,530,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413295,532,0,,36.40246406570842,no_breaks_detected
+1413296,304,0,,36.50924024640657,no_breaks_detected
+1413298,271,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413307,467,0,,36.59958932238193,no_breaks_detected
+1413310,296,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413311,358,0,,36.577686516084874,no_breaks_detected
+1413312,261,0,,36.290212183436005,no_breaks_detected
+1413315,390,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413316,333,0,,36.421629021218344,no_breaks_detected
+1413318,277,0,,36.421629021218344,no_breaks_detected
+1413319,524,0,,36.40246406570842,no_breaks_detected
+1413321,340,0,,36.49007529089665,no_breaks_detected
+1413327,362,0,,36.577686516084874,no_breaks_detected
+1413328,309,0,,36.50924024640657,no_breaks_detected
+1413330,393,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413332,589,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413337,451,0,,36.577686516084874,no_breaks_detected
+1413343,561,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413345,529,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413346,555,0,,36.903490759753595,no_breaks_detected
+1413352,307,0,,36.290212183436005,no_breaks_detected
+1413353,588,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413354,485,0,,36.903490759753595,no_breaks_detected
+1413355,587,0,,36.903490759753595,no_breaks_detected
+1413357,506,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413360,389,0,,36.421629021218344,no_breaks_detected
+1413361,541,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413363,539,0,,36.59958932238193,no_breaks_detected
+1413364,553,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413365,529,0,,36.903490759753595,no_breaks_detected
+1413368,322,0,,36.290212183436005,no_breaks_detected
+1413370,284,0,,36.50924024640657,no_breaks_detected
+1413371,567,0,,36.903490759753595,no_breaks_detected
+1413372,451,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413373,262,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413381,380,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413382,468,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413384,436,0,,36.72826830937714,no_breaks_detected
+1413385,566,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413387,512,0,,36.903490759753595,no_breaks_detected
+1413390,320,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413394,508,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413395,568,0,,36.903490759753595,no_breaks_detected
+1413404,444,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413407,538,0,,36.62149212867899,no_breaks_detected
+1413410,531,0,,36.46543463381246,no_breaks_detected
+1413416,482,0,,36.40246406570842,no_breaks_detected
+1413418,599,0,,36.903490759753595,no_breaks_detected
+1413423,525,0,,36.53388090349076,no_breaks_detected
+1413426,422,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413427,561,0,,36.903490759753595,no_breaks_detected
+1413431,401,0,,36.421629021218344,no_breaks_detected
+1413432,530,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413433,402,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413435,455,0,,36.72826830937714,no_breaks_detected
+1413440,329,0,,36.290212183436005,no_breaks_detected
+1413444,529,0,,36.46543463381246,no_breaks_detected
+1413446,307,0,,36.290212183436005,no_breaks_detected
+1413449,536,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413450,490,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413451,492,0,,36.903490759753595,no_breaks_detected
+1413452,280,0,,36.290212183436005,no_breaks_detected
+1413453,494,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413454,507,0,,36.53388090349076,no_breaks_detected
+1413461,535,0,,36.772073921971256,no_breaks_detected
+1413462,555,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413464,380,0,,36.35318275154004,no_breaks_detected
+1413465,442,0,,36.903490759753595,no_breaks_detected
+1413467,474,0,,36.421629021218344,no_breaks_detected
+1413472,457,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413473,600,0,,36.903490759753595,no_breaks_detected
+1413475,531,0,,36.903490759753595,no_breaks_detected
+1413477,446,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413478,270,0,,36.290212183436005,no_breaks_detected
+1413479,435,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413480,442,0,,36.903490759753595,no_breaks_detected
+1413481,603,0,,36.903490759753595,no_breaks_detected
+1413486,284,0,,36.290212183436005,no_breaks_detected
+1413488,529,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413499,593,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413500,502,0,,36.772073921971256,no_breaks_detected
+1413502,435,0,,36.421629021218344,no_breaks_detected
+1413504,519,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413506,306,0,,36.33401779603012,no_breaks_detected
+1413507,321,0,,36.290212183436005,no_breaks_detected
+1413509,574,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413510,270,0,,36.290212183436005,no_breaks_detected
+1413512,488,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413516,468,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413520,525,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413521,309,0,,36.290212183436005,no_breaks_detected
+1413523,504,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413526,548,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413527,283,0,,36.50924024640657,no_breaks_detected
+1413529,494,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413531,493,0,,36.72826830937714,no_breaks_detected
+1413532,272,0,,36.50924024640657,no_breaks_detected
+1413533,449,0,,36.903490759753595,no_breaks_detected
+1413535,573,0,,36.46543463381246,no_breaks_detected
+1413540,521,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413545,530,0,,36.903490759753595,no_breaks_detected
+1413546,516,0,,36.903490759753595,no_breaks_detected
+1413547,532,0,,36.46543463381246,no_breaks_detected
+1413548,546,0,,36.64065708418891,no_breaks_detected
+1413550,419,0,,36.421629021218344,no_breaks_detected
+1413552,466,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413554,359,0,,36.577686516084874,no_breaks_detected
+1413555,528,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413556,474,0,,36.903490759753595,no_breaks_detected
+1413562,274,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413563,339,0,,36.3586584531143,no_breaks_detected
+1413569,492,0,,36.72826830937714,no_breaks_detected
+1413576,531,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413578,541,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413579,426,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413583,527,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413589,437,0,,36.903490759753595,no_breaks_detected
+1413590,462,0,,36.903490759753595,no_breaks_detected
+1413596,552,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413597,470,0,,36.903490759753595,no_breaks_detected
+1413601,276,0,,36.290212183436005,no_breaks_detected
+1413605,486,0,,36.46543463381246,no_breaks_detected
+1413608,318,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413609,372,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413610,442,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413611,412,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413616,534,0,,36.53388090349076,no_breaks_detected
+1413618,305,0,,36.290212183436005,no_breaks_detected
+1413624,414,0,,36.421629021218344,no_breaks_detected
+1413626,517,0,,36.88158795345654,no_breaks_detected
+1413631,473,0,,36.72826830937714,no_breaks_detected
+1413632,505,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413638,524,0,,36.46543463381246,no_breaks_detected
+1413641,556,0,,36.903490759753595,no_breaks_detected
+1413648,513,0,,36.46543463381246,no_breaks_detected
+1413649,462,0,,36.65982203969884,no_breaks_detected
+1413652,299,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413656,561,0,,36.772073921971256,no_breaks_detected
+1413658,451,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413660,529,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413665,322,0,,36.290212183436005,no_breaks_detected
+1413666,539,0,,36.903490759753595,no_breaks_detected
+1413670,492,0,,36.40246406570842,no_breaks_detected
+1413674,274,0,,36.50924024640657,no_breaks_detected
+1413680,516,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413695,396,0,,36.421629021218344,no_breaks_detected
+1413701,553,0,,36.903490759753595,no_breaks_detected
+1413703,591,0,,36.64065708418891,no_breaks_detected
+1413707,435,0,,36.40246406570842,no_breaks_detected
+1413708,554,0,,36.46543463381246,no_breaks_detected
+1413710,439,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413712,415,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413713,266,0,,36.290212183436005,no_breaks_detected
+1413715,442,0,,36.59958932238193,no_breaks_detected
+1413717,359,0,,36.577686516084874,no_breaks_detected
+1413718,518,0,,36.903490759753595,no_breaks_detected
+1413720,399,0,,36.85968514715948,no_breaks_detected
+1413721,332,0,,36.290212183436005,no_breaks_detected
+1413723,497,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413725,518,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413728,429,0,,36.577686516084874,no_breaks_detected
+1413729,281,0,,36.290212183436005,no_breaks_detected
+1413732,573,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413733,563,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413735,306,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413741,475,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413749,454,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413750,514,0,,36.40246406570842,no_breaks_detected
+1413755,507,0,,36.772073921971256,no_breaks_detected
+1413756,526,0,,36.64065708418891,no_breaks_detected
+1413761,319,0,,36.290212183436005,no_breaks_detected
+1413762,306,0,,36.290212183436005,no_breaks_detected
+1413764,479,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413766,471,0,,36.92539356605065,no_breaks_detected
+1413767,301,0,,36.290212183436005,no_breaks_detected
+1413769,593,0,,36.64065708418891,no_breaks_detected
+1413773,544,0,,36.88158795345654,no_breaks_detected
+1413774,514,0,,36.64065708418891,no_breaks_detected
+1413779,408,0,,36.577686516084874,no_breaks_detected
+1413780,526,0,,36.772073921971256,no_breaks_detected
+1413782,543,0,,36.903490759753595,no_breaks_detected
+1413786,320,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413787,271,0,,36.290212183436005,no_breaks_detected
+1413789,556,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413795,466,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413796,546,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413797,536,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413799,429,0,,36.903490759753595,no_breaks_detected
+1413800,289,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413804,570,0,,36.772073921971256,no_breaks_detected
+1413820,331,0,,36.290212183436005,no_breaks_detected
+1413822,462,0,,36.421629021218344,no_breaks_detected
+1413824,496,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413825,461,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413826,565,0,,36.903490759753595,no_breaks_detected
+1413828,536,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413834,527,0,,36.772073921971256,no_breaks_detected
+1413835,291,0,,36.18069815195072,no_breaks_detected
+1413836,492,0,,36.772073921971256,no_breaks_detected
+1413839,524,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413844,521,0,,36.46543463381246,no_breaks_detected
+1413845,528,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413846,531,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413847,535,0,,36.772073921971256,no_breaks_detected
+1413856,449,0,,36.903490759753595,no_breaks_detected
+1413858,466,0,,36.65982203969884,no_breaks_detected
+1413860,482,0,,36.903490759753595,no_breaks_detected
+1413863,379,0,,36.421629021218344,no_breaks_detected
+1413874,489,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413875,329,0,,36.49007529089665,no_breaks_detected
+1413881,522,0,,36.64065708418891,no_breaks_detected
+1413888,268,0,,36.290212183436005,no_breaks_detected
+1413956,292,-1,,0.0,error: S-CCD function fails for pos = 1 
+1413958,297,0,,36.421629021218344,no_breaks_detected
+1414000,288,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414010,295,0,,36.290212183436005,no_breaks_detected
+1414016,294,0,,36.290212183436005,no_breaks_detected
+1414045,310,0,,36.421629021218344,no_breaks_detected
+1414065,330,0,,36.290212183436005,no_breaks_detected
+1414067,291,0,,36.50924024640657,no_breaks_detected
+1414078,285,0,,36.50924024640657,no_breaks_detected
+1414093,271,0,,36.290212183436005,no_breaks_detected
+1414095,288,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414135,302,0,,36.421629021218344,no_breaks_detected
+1414152,292,0,,36.421629021218344,no_breaks_detected
+1414169,309,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414186,310,0,,36.50924024640657,no_breaks_detected
+1414195,379,0,,36.421629021218344,no_breaks_detected
+1414227,300,0,,36.421629021218344,no_breaks_detected
+1414236,283,0,,36.18069815195072,no_breaks_detected
+1414237,297,0,,36.290212183436005,no_breaks_detected
+1414256,270,0,,36.50924024640657,no_breaks_detected
+1414262,304,0,,36.290212183436005,no_breaks_detected
+1414280,312,0,,36.50924024640657,no_breaks_detected
+1414301,308,0,,36.50924024640657,no_breaks_detected
+1414345,316,0,,36.290212183436005,no_breaks_detected
+1414354,297,0,,36.290212183436005,no_breaks_detected
+1414416,301,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414417,278,0,,36.50924024640657,no_breaks_detected
+1414462,301,0,,36.50924024640657,no_breaks_detected
+1414470,442,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414506,303,0,,36.85968514715948,no_breaks_detected
+1414509,307,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414511,355,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414533,215,0,,36.68446269678302,no_breaks_detected
+1414546,381,0,,36.92539356605065,no_breaks_detected
+1414552,314,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414585,368,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414609,297,0,,36.903490759753595,no_breaks_detected
+1414623,357,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414629,356,0,,36.92539356605065,no_breaks_detected
+1414663,178,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414674,398,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414678,398,0,,36.92539356605065,no_breaks_detected
+1414699,332,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414700,306,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414708,404,0,,36.92539356605065,no_breaks_detected
+1414714,355,0,,36.92539356605065,no_breaks_detected
+1414721,356,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414733,269,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414759,390,0,,36.92539356605065,no_breaks_detected
+1414768,229,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414781,419,0,,36.903490759753595,no_breaks_detected
+1414787,376,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414791,217,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414800,319,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414806,223,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414836,296,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414855,344,0,,36.92539356605065,no_breaks_detected
+1414921,366,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414924,256,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414939,304,0,,36.92539356605065,no_breaks_detected
+1414942,349,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414943,261,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414951,375,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414954,390,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414968,306,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414980,370,-1,,0.0,error: S-CCD function fails for pos = 1 
+1414982,273,-1,,0.0,error: S-CCD function fails for pos = 1 
+1415000,200,-1,,0.0,error: S-CCD function fails for pos = 1 
+1415003,206,-1,,0.0,error: S-CCD function fails for pos = 1 
+1415014,274,-1,,0.0,error: S-CCD function fails for pos = 1 
+1415023,365,0,,36.92539356605065,no_breaks_detected
+1415050,204,-1,,0.0,error: S-CCD function fails for pos = 1 
+1415057,330,0,,36.88158795345654,no_breaks_detected
+1415085,183,0,,36.72826830937714,no_breaks_detected
+1415176,264,0,,36.903490759753595,no_breaks_detected
+1415331,302,0,,36.903490759753595,no_breaks_detected
+1446914,266,0,,36.290212183436005,no_breaks_detected
+1446915,268,0,,36.50924024640657,no_breaks_detected
+1446916,256,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446917,284,0,,36.50924024640657,no_breaks_detected
+1446918,247,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446919,235,0,,36.290212183436005,no_breaks_detected
+1446920,265,0,,36.50924024640657,no_breaks_detected
+1446921,235,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446922,243,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446923,240,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446924,230,0,,36.049281314168375,no_breaks_detected
+1446925,228,0,,36.290212183436005,no_breaks_detected
+1446926,245,0,,36.421629021218344,no_breaks_detected
+1446927,253,0,,36.421629021218344,no_breaks_detected
+1446929,239,0,,36.421629021218344,no_breaks_detected
+1446930,278,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446931,226,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446933,265,0,,36.421629021218344,no_breaks_detected
+1446934,245,0,,36.290212183436005,no_breaks_detected
+1446935,228,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446936,279,0,,36.50924024640657,no_breaks_detected
+1446937,272,0,,36.290212183436005,no_breaks_detected
+1446938,237,0,,36.114989733059545,no_breaks_detected
+1446940,260,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446941,253,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446942,241,0,,36.421629021218344,no_breaks_detected
+1446943,243,0,,36.421629021218344,no_breaks_detected
+1446944,240,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446945,232,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446946,271,0,,36.50924024640657,no_breaks_detected
+1446947,247,0,,36.290212183436005,no_breaks_detected
+1446948,268,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446949,233,0,,36.50924024640657,no_breaks_detected
+1446950,244,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446951,231,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446952,242,0,,36.39972621492129,no_breaks_detected
+1446953,242,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446954,249,0,,35.89596167008898,no_breaks_detected
+1446955,239,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446956,280,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446957,253,0,,36.421629021218344,no_breaks_detected
+1446958,231,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446959,270,0,,36.50924024640657,no_breaks_detected
+1446960,232,0,,36.00547570157426,no_breaks_detected
+1446961,254,0,,36.50924024640657,no_breaks_detected
+1446962,236,0,,36.290212183436005,no_breaks_detected
+1446963,263,0,,36.50924024640657,no_breaks_detected
+1446964,228,0,,36.31211498973306,no_breaks_detected
+1446966,251,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446967,248,0,,36.39972621492129,no_breaks_detected
+1446968,238,0,,36.31211498973306,no_breaks_detected
+1446969,252,0,,36.18069815195072,no_breaks_detected
+1446970,256,0,,36.31211498973306,no_breaks_detected
+1446971,240,0,,36.50924024640657,no_breaks_detected
+1446972,279,0,,36.421629021218344,no_breaks_detected
+1446973,261,0,,36.4435318275154,no_breaks_detected
+1446974,246,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446975,250,0,,36.50924024640657,no_breaks_detected
+1446976,256,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446977,233,0,,36.00547570157426,no_breaks_detected
+1446978,242,0,,36.421629021218344,no_breaks_detected
+1446979,222,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446980,245,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446981,229,0,,36.421629021218344,no_breaks_detected
+1446982,284,0,,36.33401779603012,no_breaks_detected
+1446983,229,0,,36.20260095824778,no_breaks_detected
+1446984,256,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446985,233,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446986,233,0,,36.31211498973306,no_breaks_detected
+1446987,268,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446988,254,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446989,254,0,,36.33401779603012,no_breaks_detected
+1446990,244,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446991,234,0,,36.421629021218344,no_breaks_detected
+1446992,232,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446993,238,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446994,240,-1,,0.0,error: S-CCD function fails for pos = 1 
+1446995,231,0,,36.290212183436005,no_breaks_detected
+1446996,273,0,,36.290212183436005,no_breaks_detected
+1446997,237,0,,36.50924024640657,no_breaks_detected
+1446998,246,0,,36.114989733059545,no_breaks_detected
+1446999,257,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447000,272,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447001,259,0,,36.50924024640657,no_breaks_detected
+1447002,239,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447003,226,0,,36.18069815195072,no_breaks_detected
+1447004,262,0,,36.421629021218344,no_breaks_detected
+1447005,231,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447006,239,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447007,235,0,,36.114989733059545,no_breaks_detected
+1447008,241,0,,36.290212183436005,no_breaks_detected
+1447009,225,0,,36.50924024640657,no_breaks_detected
+1447010,264,0,,36.421629021218344,no_breaks_detected
+1447011,225,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447012,292,0,,36.31211498973306,no_breaks_detected
+1447013,247,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447014,264,0,,36.290212183436005,no_breaks_detected
+1447015,276,0,,36.50924024640657,no_breaks_detected
+1447016,250,0,,36.049281314168375,no_breaks_detected
+1447017,248,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447018,279,0,,36.421629021218344,no_breaks_detected
+1447019,254,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447020,244,0,,36.50924024640657,no_breaks_detected
+1447021,243,0,,36.31211498973306,no_breaks_detected
+1447022,258,0,,36.421629021218344,no_breaks_detected
+1447023,278,0,,36.18069815195072,no_breaks_detected
+1447024,265,0,,36.31211498973306,no_breaks_detected
+1447025,252,0,,36.33401779603012,no_breaks_detected
+1447026,235,0,,36.31211498973306,no_breaks_detected
+1447027,265,0,,36.50924024640657,no_breaks_detected
+1447028,242,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447029,264,0,,36.290212183436005,no_breaks_detected
+1447030,232,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447031,234,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447032,243,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447033,238,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447034,230,0,,36.114989733059545,no_breaks_detected
+1447035,232,0,,36.33401779603012,no_breaks_detected
+1447036,247,0,,36.421629021218344,no_breaks_detected
+1447037,235,0,,36.421629021218344,no_breaks_detected
+1447038,237,0,,36.18069815195072,no_breaks_detected
+1447039,222,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447040,224,0,,36.290212183436005,no_breaks_detected
+1447041,262,0,,36.50924024640657,no_breaks_detected
+1447042,237,0,,36.4435318275154,no_breaks_detected
+1447043,244,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447044,232,0,,36.158795345653665,no_breaks_detected
+1447045,252,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447046,233,0,,36.18069815195072,no_breaks_detected
+1447047,245,0,,36.290212183436005,no_breaks_detected
+1447048,255,0,,36.421629021218344,no_breaks_detected
+1447049,252,0,,36.07118412046543,no_breaks_detected
+1447050,275,0,,36.39972621492129,no_breaks_detected
+1447051,238,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447052,257,0,,36.421629021218344,no_breaks_detected
+1447053,233,0,,36.18069815195072,no_breaks_detected
+1447054,252,0,,36.421629021218344,no_breaks_detected
+1447055,243,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447056,250,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447057,270,0,,36.50924024640657,no_breaks_detected
+1447058,229,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447059,221,0,,36.421629021218344,no_breaks_detected
+1447060,230,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447061,260,0,,36.114989733059545,no_breaks_detected
+1447062,238,0,,36.421629021218344,no_breaks_detected
+1447064,250,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447065,267,0,,36.50924024640657,no_breaks_detected
+1447066,276,0,,36.31211498973306,no_breaks_detected
+1447067,245,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447068,231,0,,36.224503764544835,no_breaks_detected
+1447069,249,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447070,272,0,,36.50924024640657,no_breaks_detected
+1447071,237,0,,36.31211498973306,no_breaks_detected
+1447072,233,0,,36.290212183436005,no_breaks_detected
+1447073,260,0,,36.290212183436005,no_breaks_detected
+1447074,261,0,,36.07118412046543,no_breaks_detected
+1447075,249,0,,36.224503764544835,no_breaks_detected
+1447076,289,0,,36.50924024640657,no_breaks_detected
+1447077,271,0,,36.4435318275154,no_breaks_detected
+1447078,237,0,,36.224503764544835,no_breaks_detected
+1447079,254,0,,36.290212183436005,no_breaks_detected
+1447080,264,0,,36.18069815195072,no_breaks_detected
+1447081,242,0,,36.421629021218344,no_breaks_detected
+1447082,242,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447083,265,0,,36.421629021218344,no_breaks_detected
+1447084,251,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447085,237,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447086,221,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447087,244,0,,36.50924024640657,no_breaks_detected
+1447088,238,0,,36.50924024640657,no_breaks_detected
+1447089,240,0,,36.224503764544835,no_breaks_detected
+1447090,250,0,,36.50924024640657,no_breaks_detected
+1447092,224,0,,36.33401779603012,no_breaks_detected
+1447093,221,0,,36.158795345653665,no_breaks_detected
+1447094,248,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447095,237,0,,36.290212183436005,no_breaks_detected
+1447096,255,0,,36.290212183436005,no_breaks_detected
+1447097,232,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447098,267,0,,36.4435318275154,no_breaks_detected
+1447099,227,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447100,255,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447102,231,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447103,238,0,,35.6331279945243,no_breaks_detected
+1447104,252,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447105,221,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447106,252,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447107,269,0,,36.421629021218344,no_breaks_detected
+1447108,272,0,,36.421629021218344,no_breaks_detected
+1447109,247,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447110,266,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447111,239,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447112,243,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447113,236,0,,36.18069815195072,no_breaks_detected
+1447115,253,0,,36.39972621492129,no_breaks_detected
+1447116,258,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447117,276,0,,36.290212183436005,no_breaks_detected
+1447118,250,0,,36.18069815195072,no_breaks_detected
+1447119,237,0,,36.421629021218344,no_breaks_detected
+1447120,247,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447121,281,0,,36.421629021218344,no_breaks_detected
+1447122,276,0,,36.50924024640657,no_breaks_detected
+1447123,232,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447124,263,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447125,244,0,,36.421629021218344,no_breaks_detected
+1447126,252,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447127,275,0,,36.421629021218344,no_breaks_detected
+1447128,257,0,,36.31211498973306,no_breaks_detected
+1447129,260,0,,36.50924024640657,no_breaks_detected
+1447130,228,0,,36.00547570157426,no_breaks_detected
+1447131,270,0,,36.421629021218344,no_breaks_detected
+1447132,254,0,,36.4435318275154,no_breaks_detected
+1447133,238,0,,36.421629021218344,no_breaks_detected
+1447134,250,0,,36.31211498973306,no_breaks_detected
+1447135,226,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447136,215,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447137,291,0,,36.39972621492129,no_breaks_detected
+1447138,251,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447140,240,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447141,241,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447142,231,0,,36.290212183436005,no_breaks_detected
+1447143,265,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447144,240,0,,36.355920602327174,no_breaks_detected
+1447145,229,0,,36.421629021218344,no_breaks_detected
+1447146,283,0,,36.50924024640657,no_breaks_detected
+1447147,270,0,,36.290212183436005,no_breaks_detected
+1447148,252,0,,36.50924024640657,no_breaks_detected
+1447149,244,0,,36.18069815195072,no_breaks_detected
+1447150,247,0,,36.421629021218344,no_breaks_detected
+1447151,276,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447152,228,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447153,240,0,,36.290212183436005,no_breaks_detected
+1447154,247,0,,36.33401779603012,no_breaks_detected
+1447155,241,0,,36.26830937713895,no_breaks_detected
+1447156,240,0,,36.31211498973306,no_breaks_detected
+1447157,240,0,,36.421629021218344,no_breaks_detected
+1447158,258,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447159,275,0,,36.50924024640657,no_breaks_detected
+1447160,253,0,,36.4435318275154,no_breaks_detected
+1447161,226,0,,36.421629021218344,no_breaks_detected
+1447162,265,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447163,221,0,,36.290212183436005,no_breaks_detected
+1447164,282,0,,36.421629021218344,no_breaks_detected
+1447165,256,0,,36.290212183436005,no_breaks_detected
+1447166,238,0,,36.158795345653665,no_breaks_detected
+1447167,240,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447168,273,0,,36.50924024640657,no_breaks_detected
+1447169,237,0,,36.049281314168375,no_breaks_detected
+1447170,281,0,,36.421629021218344,no_breaks_detected
+1447171,236,0,,36.421629021218344,no_breaks_detected
+1447172,243,0,,36.114989733059545,no_breaks_detected
+1447173,232,0,,36.290212183436005,no_breaks_detected
+1447174,277,0,,36.50924024640657,no_breaks_detected
+1447175,243,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447176,245,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447177,229,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447178,246,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447179,245,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447180,260,0,,36.355920602327174,no_breaks_detected
+1447181,221,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447182,235,0,,36.4435318275154,no_breaks_detected
+1447183,238,0,,36.33401779603012,no_breaks_detected
+1447184,273,0,,36.50924024640657,no_breaks_detected
+1447185,235,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447186,238,0,,36.33401779603012,no_breaks_detected
+1447187,249,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447188,243,0,,36.31211498973306,no_breaks_detected
+1447189,268,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447190,229,0,,36.00547570157426,no_breaks_detected
+1447191,223,0,,36.290212183436005,no_breaks_detected
+1447192,239,0,,36.18069815195072,no_breaks_detected
+1447194,264,0,,36.33401779603012,no_breaks_detected
+1447195,235,0,,36.50924024640657,no_breaks_detected
+1447197,258,0,,36.290212183436005,no_breaks_detected
+1447198,245,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447199,263,0,,36.50924024640657,no_breaks_detected
+1447200,257,0,,36.290212183436005,no_breaks_detected
+1447201,265,0,,36.39972621492129,no_breaks_detected
+1447202,255,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447203,270,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447204,236,0,,36.50924024640657,no_breaks_detected
+1447205,216,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447206,241,0,,36.158795345653665,no_breaks_detected
+1447207,268,0,,36.31211498973306,no_breaks_detected
+1447208,276,0,,36.290212183436005,no_breaks_detected
+1447209,240,0,,36.224503764544835,no_breaks_detected
+1447210,241,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447211,262,0,,36.290212183436005,no_breaks_detected
+1447212,250,0,,36.31211498973306,no_breaks_detected
+1447213,240,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447214,241,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447215,243,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447216,222,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447217,241,0,,36.421629021218344,no_breaks_detected
+1447218,241,0,,36.290212183436005,no_breaks_detected
+1447219,276,0,,36.50924024640657,no_breaks_detected
+1447220,240,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447221,221,0,,36.290212183436005,no_breaks_detected
+1447222,229,0,,36.00547570157426,no_breaks_detected
+1447223,218,0,,36.224503764544835,no_breaks_detected
+1447224,271,0,,36.4435318275154,no_breaks_detected
+1447225,246,0,,36.50924024640657,no_breaks_detected
+1447226,248,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447227,255,0,,36.114989733059545,no_breaks_detected
+1447228,285,0,,36.50924024640657,no_breaks_detected
+1447229,253,0,,36.158795345653665,no_breaks_detected
+1447230,287,0,,36.421629021218344,no_breaks_detected
+1447231,236,0,,36.31211498973306,no_breaks_detected
+1447232,252,0,,36.20260095824778,no_breaks_detected
+1447233,274,0,,36.50924024640657,no_breaks_detected
+1447234,220,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447235,230,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447237,250,0,,36.33401779603012,no_breaks_detected
+1447239,272,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447240,252,0,,35.85215605749487,no_breaks_detected
+1447241,258,0,,36.290212183436005,no_breaks_detected
+1447242,264,0,,36.421629021218344,no_breaks_detected
+1447243,246,0,,36.31211498973306,no_breaks_detected
+1447244,287,0,,36.50924024640657,no_breaks_detected
+1447245,247,0,,36.421629021218344,no_breaks_detected
+1447246,221,0,,36.33401779603012,no_breaks_detected
+1447247,215,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447248,240,0,,35.85215605749487,no_breaks_detected
+1447249,274,0,,36.50924024640657,no_breaks_detected
+1447250,273,0,,36.421629021218344,no_breaks_detected
+1447251,241,0,,36.31211498973306,no_breaks_detected
+1447252,232,0,,36.158795345653665,no_breaks_detected
+1447253,234,0,,36.39972621492129,no_breaks_detected
+1447254,252,0,,36.290212183436005,no_breaks_detected
+1447255,253,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447256,239,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447257,228,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447258,258,0,,36.421629021218344,no_breaks_detected
+1447259,233,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447260,226,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447261,243,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447262,235,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447263,232,0,,36.224503764544835,no_breaks_detected
+1447264,278,0,,36.31211498973306,no_breaks_detected
+1447265,249,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447266,237,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447267,228,0,,36.31211498973306,no_breaks_detected
+1447268,240,0,,36.421629021218344,no_breaks_detected
+1447269,242,0,,36.33401779603012,no_breaks_detected
+1447271,271,0,,36.290212183436005,no_breaks_detected
+1447272,236,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447273,247,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447274,231,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447275,238,0,,36.114989733059545,no_breaks_detected
+1447276,266,0,,36.50924024640657,no_breaks_detected
+1447277,240,0,,36.31211498973306,no_breaks_detected
+1447278,217,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447279,255,0,,36.07118412046543,no_breaks_detected
+1447280,257,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447281,234,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447282,245,0,,36.114989733059545,no_breaks_detected
+1447284,281,0,,36.50924024640657,no_breaks_detected
+1447285,263,0,,36.290212183436005,no_breaks_detected
+1447286,236,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447287,236,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447288,274,0,,36.39972621492129,no_breaks_detected
+1447289,245,0,,36.31211498973306,no_breaks_detected
+1447290,251,0,,36.421629021218344,no_breaks_detected
+1447291,234,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447292,250,0,,36.421629021218344,no_breaks_detected
+1447293,235,0,,36.31211498973306,no_breaks_detected
+1447294,236,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447295,266,0,,36.31211498973306,no_breaks_detected
+1447296,249,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447297,257,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447298,277,0,,36.50924024640657,no_breaks_detected
+1447300,259,0,,36.290212183436005,no_breaks_detected
+1447301,233,0,,36.290212183436005,no_breaks_detected
+1447302,234,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447303,245,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447304,217,0,,36.114989733059545,no_breaks_detected
+1447305,261,0,,36.20260095824778,no_breaks_detected
+1447306,261,0,,36.114989733059545,no_breaks_detected
+1447307,245,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447308,274,0,,36.31211498973306,no_breaks_detected
+1447309,262,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447310,249,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447311,262,0,,36.421629021218344,no_breaks_detected
+1447312,276,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447313,246,0,,36.421629021218344,no_breaks_detected
+1447314,227,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447315,240,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447316,241,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447317,244,0,,36.50924024640657,no_breaks_detected
+1447318,245,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447319,232,0,,36.50924024640657,no_breaks_detected
+1447321,238,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447322,239,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447323,233,0,,36.39972621492129,no_breaks_detected
+1447325,242,0,,36.4435318275154,no_breaks_detected
+1447326,261,0,,36.50924024640657,no_breaks_detected
+1447327,254,0,,36.421629021218344,no_breaks_detected
+1447328,266,0,,36.50924024640657,no_breaks_detected
+1447329,246,0,,36.290212183436005,no_breaks_detected
+1447330,245,0,,36.33401779603012,no_breaks_detected
+1447331,252,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447332,236,0,,36.158795345653665,no_breaks_detected
+1447333,256,0,,36.33401779603012,no_breaks_detected
+1447334,254,0,,36.31211498973306,no_breaks_detected
+1447335,238,0,,36.158795345653665,no_breaks_detected
+1447336,231,0,,36.31211498973306,no_breaks_detected
+1447337,238,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447338,217,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447339,237,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447340,250,0,,36.421629021218344,no_breaks_detected
+1447341,222,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447343,230,0,,36.18069815195072,no_breaks_detected
+1447344,226,0,,36.421629021218344,no_breaks_detected
+1447345,271,0,,36.290212183436005,no_breaks_detected
+1447346,262,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447347,243,0,,36.290212183436005,no_breaks_detected
+1447348,263,0,,36.290212183436005,no_breaks_detected
+1447349,237,0,,36.31211498973306,no_breaks_detected
+1447350,242,0,,36.33401779603012,no_breaks_detected
+1447351,227,0,,36.07118412046543,no_breaks_detected
+1447352,241,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447353,254,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447354,236,0,,36.158795345653665,no_breaks_detected
+1447355,266,0,,36.31211498973306,no_breaks_detected
+1447356,252,0,,36.50924024640657,no_breaks_detected
+1447357,274,0,,36.50924024640657,no_breaks_detected
+1447358,252,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447359,231,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447360,237,0,,36.07118412046543,no_breaks_detected
+1447362,244,0,,36.114989733059545,no_breaks_detected
+1447363,220,0,,36.290212183436005,no_breaks_detected
+1447364,251,0,,36.290212183436005,no_breaks_detected
+1447365,218,0,,36.224503764544835,no_breaks_detected
+1447366,259,0,,36.421629021218344,no_breaks_detected
+1447367,273,0,,36.50924024640657,no_breaks_detected
+1447368,271,0,,36.50924024640657,no_breaks_detected
+1447369,227,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447370,251,0,,36.31211498973306,no_breaks_detected
+1447371,239,0,,36.50924024640657,no_breaks_detected
+1447372,229,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447373,262,0,,36.50924024640657,no_breaks_detected
+1447374,232,0,,36.31211498973306,no_breaks_detected
+1447375,235,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447376,239,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447377,247,0,,36.290212183436005,no_breaks_detected
+1447378,218,0,,36.290212183436005,no_breaks_detected
+1447379,250,0,,36.26830937713895,no_breaks_detected
+1447380,247,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447381,273,0,,36.290212183436005,no_breaks_detected
+1447382,227,0,,36.114989733059545,no_breaks_detected
+1447383,243,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447384,232,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447385,253,0,,36.421629021218344,no_breaks_detected
+1447386,248,0,,36.18069815195072,no_breaks_detected
+1447387,228,0,,36.290212183436005,no_breaks_detected
+1447388,250,0,,36.355920602327174,no_breaks_detected
+1447389,239,0,,36.421629021218344,no_breaks_detected
+1447390,244,0,,36.290212183436005,no_breaks_detected
+1447391,271,0,,36.50924024640657,no_breaks_detected
+1447392,231,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447393,247,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447394,228,0,,36.39972621492129,no_breaks_detected
+1447395,238,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447396,261,0,,36.00547570157426,no_breaks_detected
+1447397,238,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447398,267,0,,36.50924024640657,no_breaks_detected
+1447399,241,0,,36.18069815195072,no_breaks_detected
+1447400,272,0,,36.50924024640657,no_breaks_detected
+1447401,231,0,,36.158795345653665,no_breaks_detected
+1447402,268,0,,36.50924024640657,no_breaks_detected
+1447403,235,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447404,253,0,,36.421629021218344,no_breaks_detected
+1447405,240,0,,36.39972621492129,no_breaks_detected
+1447406,253,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447407,269,0,,36.290212183436005,no_breaks_detected
+1447408,266,0,,36.290212183436005,no_breaks_detected
+1447409,238,0,,35.85215605749487,no_breaks_detected
+1447410,233,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447411,251,0,,36.50924024640657,no_breaks_detected
+1447412,247,0,,36.33401779603012,no_breaks_detected
+1447413,258,0,,36.50924024640657,no_breaks_detected
+1447414,230,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447415,265,0,,36.421629021218344,no_breaks_detected
+1447416,248,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447417,217,0,,36.158795345653665,no_breaks_detected
+1447418,272,0,,36.50924024640657,no_breaks_detected
+1447419,254,0,,36.31211498973306,no_breaks_detected
+1447420,220,0,,36.50924024640657,no_breaks_detected
+1447421,232,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447422,255,0,,36.50924024640657,no_breaks_detected
+1447423,271,0,,36.50924024640657,no_breaks_detected
+1447424,222,0,,36.114989733059545,no_breaks_detected
+1447425,255,0,,36.18069815195072,no_breaks_detected
+1447426,250,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447427,244,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447428,233,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447429,264,0,,36.50924024640657,no_breaks_detected
+1447430,313,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447431,234,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447432,276,0,,36.50924024640657,no_breaks_detected
+1447433,237,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447434,253,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447435,277,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447436,266,0,,36.31211498973306,no_breaks_detected
+1447437,263,0,,36.290212183436005,no_breaks_detected
+1447438,243,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447439,220,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447441,273,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447442,233,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447443,230,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447444,241,0,,36.50924024640657,no_breaks_detected
+1447445,276,0,,36.50924024640657,no_breaks_detected
+1447446,244,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447447,230,0,,36.114989733059545,no_breaks_detected
+1447448,276,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447449,243,0,,36.39972621492129,no_breaks_detected
+1447450,233,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447451,277,0,,36.421629021218344,no_breaks_detected
+1447452,245,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447453,238,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447454,233,0,,36.31211498973306,no_breaks_detected
+1447456,254,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447457,259,0,,36.290212183436005,no_breaks_detected
+1447458,234,0,,36.158795345653665,no_breaks_detected
+1447459,257,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447460,272,0,,36.421629021218344,no_breaks_detected
+1447461,230,0,,36.114989733059545,no_breaks_detected
+1447462,234,0,,36.18069815195072,no_breaks_detected
+1447463,248,0,,36.33401779603012,no_breaks_detected
+1447464,229,0,,36.421629021218344,no_breaks_detected
+1447465,256,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447466,236,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447467,234,0,,36.31211498973306,no_breaks_detected
+1447468,250,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447469,264,0,,36.421629021218344,no_breaks_detected
+1447470,258,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447471,245,0,,36.158795345653665,no_breaks_detected
+1447472,247,0,,36.224503764544835,no_breaks_detected
+1447473,255,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447474,269,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447475,255,0,,36.421629021218344,no_breaks_detected
+1447476,239,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447477,254,0,,36.421629021218344,no_breaks_detected
+1447478,230,0,,36.114989733059545,no_breaks_detected
+1447479,241,0,,36.50924024640657,no_breaks_detected
+1447480,260,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447481,278,0,,36.31211498973306,no_breaks_detected
+1447482,257,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447483,251,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447484,235,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447485,244,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447486,239,0,,35.83025325119781,no_breaks_detected
+1447487,268,0,,36.290212183436005,no_breaks_detected
+1447488,280,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447489,251,0,,36.50924024640657,no_breaks_detected
+1447490,257,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447491,239,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447492,243,0,,36.33401779603012,no_breaks_detected
+1447493,278,0,,36.421629021218344,no_breaks_detected
+1447494,244,0,,36.114989733059545,no_breaks_detected
+1447495,285,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447496,231,0,,36.290212183436005,no_breaks_detected
+1447497,227,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447498,254,0,,36.50924024640657,no_breaks_detected
+1447499,241,0,,36.33401779603012,no_breaks_detected
+1447500,258,0,,36.290212183436005,no_breaks_detected
+1447502,259,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447503,214,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447504,270,0,,36.50924024640657,no_breaks_detected
+1447505,256,0,,36.290212183436005,no_breaks_detected
+1447506,261,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447507,252,0,,36.290212183436005,no_breaks_detected
+1447508,261,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447509,248,0,,36.33401779603012,no_breaks_detected
+1447510,245,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447511,245,0,,36.31211498973306,no_breaks_detected
+1447512,224,0,,36.18069815195072,no_breaks_detected
+1447513,221,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447519,259,0,,36.421629021218344,no_breaks_detected
+1447520,242,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447523,298,0,,36.421629021218344,no_breaks_detected
+1447524,274,0,,36.421629021218344,no_breaks_detected
+1447525,213,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447526,275,0,,36.20260095824778,no_breaks_detected
+1447528,254,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447530,317,0,,36.4435318275154,no_breaks_detected
+1447532,271,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447533,227,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447535,261,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447539,247,0,,36.39972621492129,no_breaks_detected
+1447540,237,0,,36.50924024640657,no_breaks_detected
+1447541,263,0,,36.39972621492129,no_breaks_detected
+1447544,279,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447545,265,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447546,240,0,,36.33401779603012,no_breaks_detected
+1447550,289,0,,36.50924024640657,no_breaks_detected
+1447552,272,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447554,226,0,,36.224503764544835,no_breaks_detected
+1447560,252,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447563,313,0,,36.4435318275154,no_breaks_detected
+1447565,261,0,,36.00547570157426,no_breaks_detected
+1447573,263,0,,36.39972621492129,no_breaks_detected
+1447577,259,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447584,228,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447591,230,0,,36.114989733059545,no_breaks_detected
+1447592,239,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447595,301,0,,36.50924024640657,no_breaks_detected
+1447602,314,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447603,241,0,,35.56741957563313,no_breaks_detected
+1447606,266,0,,36.39972621492129,no_breaks_detected
+1447610,273,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447613,252,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447615,237,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447617,270,0,,36.290212183436005,no_breaks_detected
+1447618,246,0,,36.114989733059545,no_breaks_detected
+1447620,261,0,,36.20260095824778,no_breaks_detected
+1447622,251,0,,36.355920602327174,no_breaks_detected
+1447623,288,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447637,238,0,,36.18069815195072,no_breaks_detected
+1447646,262,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447647,274,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447648,250,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447652,267,0,,36.39972621492129,no_breaks_detected
+1447654,258,0,,36.114989733059545,no_breaks_detected
+1447655,231,0,,36.224503764544835,no_breaks_detected
+1447656,233,0,,36.50924024640657,no_breaks_detected
+1447658,245,0,,36.07118412046543,no_breaks_detected
+1447660,255,0,,36.421629021218344,no_breaks_detected
+1447661,253,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447664,280,0,,36.50924024640657,no_breaks_detected
+1447668,239,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447673,258,0,,36.421629021218344,no_breaks_detected
+1447676,272,0,,36.50924024640657,no_breaks_detected
+1447679,238,0,,36.290212183436005,no_breaks_detected
+1447680,239,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447683,241,0,,36.421629021218344,no_breaks_detected
+1447690,269,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447692,288,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447693,274,0,,36.421629021218344,no_breaks_detected
+1447711,285,0,,36.50924024640657,no_breaks_detected
+1447713,246,0,,36.18069815195072,no_breaks_detected
+1447714,292,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447716,270,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447717,248,0,,36.39972621492129,no_breaks_detected
+1447719,270,0,,36.50924024640657,no_breaks_detected
+1447721,329,0,,36.4435318275154,no_breaks_detected
+1447722,249,0,,36.421629021218344,no_breaks_detected
+1447724,278,0,,36.50924024640657,no_breaks_detected
+1447726,235,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447728,228,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447729,258,0,,36.114989733059545,no_breaks_detected
+1447731,282,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447734,247,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447740,250,0,,36.4435318275154,no_breaks_detected
+1447742,246,0,,36.114989733059545,no_breaks_detected
+1447743,252,0,,36.290212183436005,no_breaks_detected
+1447748,256,0,,36.158795345653665,no_breaks_detected
+1447749,230,0,,36.290212183436005,no_breaks_detected
+1447750,246,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447752,267,0,,36.31211498973306,no_breaks_detected
+1447756,250,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447761,251,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447765,277,0,,36.31211498973306,no_breaks_detected
+1447766,230,0,,36.50924024640657,no_breaks_detected
+1447769,275,0,,36.114989733059545,no_breaks_detected
+1447774,248,0,,36.39972621492129,no_breaks_detected
+1447775,268,0,,36.421629021218344,no_breaks_detected
+1447780,251,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447782,265,0,,36.20260095824778,no_breaks_detected
+1447791,272,0,,36.18069815195072,no_breaks_detected
+1447793,245,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447795,274,0,,36.290212183436005,no_breaks_detected
+1447796,249,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447797,253,0,,36.20260095824778,no_breaks_detected
+1447798,263,0,,36.355920602327174,no_breaks_detected
+1447801,281,0,,36.50924024640657,no_breaks_detected
+1447802,243,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447803,239,0,,36.00547570157426,no_breaks_detected
+1447806,281,0,,36.50924024640657,no_breaks_detected
+1447807,276,0,,36.290212183436005,no_breaks_detected
+1447810,256,0,,36.33401779603012,no_breaks_detected
+1447812,312,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447817,310,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447818,251,0,,36.114989733059545,no_breaks_detected
+1447820,272,0,,36.50924024640657,no_breaks_detected
+1447821,232,0,,36.049281314168375,no_breaks_detected
+1447827,236,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447835,270,0,,36.290212183436005,no_breaks_detected
+1447838,244,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447839,243,0,,36.1368925393566,no_breaks_detected
+1447841,324,0,,36.4435318275154,no_breaks_detected
+1447842,267,0,,36.50924024640657,no_breaks_detected
+1447843,241,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447844,235,0,,36.114989733059545,no_breaks_detected
+1447849,251,0,,36.26830937713895,no_breaks_detected
+1447853,277,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447857,281,0,,36.50924024640657,no_breaks_detected
+1447859,268,0,,36.50924024640657,no_breaks_detected
+1447861,248,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447862,275,0,,36.39972621492129,no_breaks_detected
+1447864,267,0,,36.50924024640657,no_breaks_detected
+1447867,273,0,,36.049281314168375,no_breaks_detected
+1447873,262,0,,36.355920602327174,no_breaks_detected
+1447879,250,0,,36.07118412046543,no_breaks_detected
+1447882,250,0,,36.33401779603012,no_breaks_detected
+1447884,240,0,,36.049281314168375,no_breaks_detected
+1447888,284,0,,36.50924024640657,no_breaks_detected
+1447889,286,0,,36.355920602327174,no_breaks_detected
+1447890,249,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447896,286,0,,36.39972621492129,no_breaks_detected
+1447900,253,0,,36.50924024640657,no_breaks_detected
+1447908,274,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447911,231,0,,35.983572895277206,no_breaks_detected
+1447917,253,0,,36.09308692676249,no_breaks_detected
+1447920,227,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447921,253,0,,36.50924024640657,no_breaks_detected
+1447923,267,0,,36.39972621492129,no_breaks_detected
+1447927,279,0,,36.114989733059545,no_breaks_detected
+1447931,236,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447935,275,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447938,264,0,,36.50924024640657,no_breaks_detected
+1447942,232,0,,36.00547570157426,no_breaks_detected
+1447944,281,0,,36.290212183436005,no_breaks_detected
+1447946,262,0,,36.00547570157426,no_breaks_detected
+1447948,271,0,,36.224503764544835,no_breaks_detected
+1447955,284,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447958,286,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447959,243,0,,36.33401779603012,no_breaks_detected
+1447960,225,0,,36.24640657084189,no_breaks_detected
+1447961,275,0,,36.290212183436005,no_breaks_detected
+1447966,233,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447970,259,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447971,251,0,,36.224503764544835,no_breaks_detected
+1447973,294,0,,36.4435318275154,no_breaks_detected
+1447975,275,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447976,262,0,,36.114989733059545,no_breaks_detected
+1447977,274,0,,36.4435318275154,no_breaks_detected
+1447980,261,0,,36.4435318275154,no_breaks_detected
+1447982,241,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447985,287,-1,,0.0,error: S-CCD function fails for pos = 1 
+1447994,273,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448004,259,0,,36.290212183436005,no_breaks_detected
+1448007,327,0,,36.50924024640657,no_breaks_detected
+1448012,231,0,,36.049281314168375,no_breaks_detected
+1448021,306,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448029,312,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448031,258,0,,36.290212183436005,no_breaks_detected
+1448038,280,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448047,283,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448048,259,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448049,270,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448051,228,0,,36.049281314168375,no_breaks_detected
+1448052,252,0,,36.290212183436005,no_breaks_detected
+1448053,287,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448054,313,0,,36.4435318275154,no_breaks_detected
+1448057,227,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448058,270,0,,36.31211498973306,no_breaks_detected
+1448060,270,0,,36.114989733059545,no_breaks_detected
+1448061,245,0,,35.89596167008898,no_breaks_detected
+1448063,234,0,,36.31211498973306,no_breaks_detected
+1448072,240,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448079,264,0,,36.39972621492129,no_breaks_detected
+1448086,268,0,,36.290212183436005,no_breaks_detected
+1448094,269,0,,36.50924024640657,no_breaks_detected
+1448098,260,0,,36.421629021218344,no_breaks_detected
+1448099,272,0,,36.421629021218344,no_breaks_detected
+1448100,299,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448105,316,0,,36.4435318275154,no_breaks_detected
+1448108,264,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448109,281,0,,36.39972621492129,no_breaks_detected
+1448110,263,0,,36.07118412046543,no_breaks_detected
+1448111,261,0,,36.4435318275154,no_breaks_detected
+1448112,239,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448113,268,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448114,278,0,,36.50924024640657,no_breaks_detected
+1448116,315,0,,36.50924024640657,no_breaks_detected
+1448118,300,0,,36.290212183436005,no_breaks_detected
+1448119,453,0,,36.577686516084874,no_breaks_detected
+1448120,514,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448121,563,0,,36.903490759753595,no_breaks_detected
+1448122,381,0,,36.903490759753595,no_breaks_detected
+1448123,282,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448124,305,0,,36.50924024640657,no_breaks_detected
+1448126,333,0,,36.50924024640657,no_breaks_detected
+1448127,273,0,,36.421629021218344,no_breaks_detected
+1448128,268,0,,36.290212183436005,no_breaks_detected
+1448129,336,0,,36.33401779603012,no_breaks_detected
+1448130,254,0,,36.290212183436005,no_breaks_detected
+1448132,514,0,,36.72826830937714,no_breaks_detected
+1448133,516,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448134,231,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448135,579,0,,36.85968514715948,no_breaks_detected
+1448137,553,0,,36.772073921971256,no_breaks_detected
+1448138,297,0,,36.31211498973306,no_breaks_detected
+1448143,241,0,,36.50924024640657,no_breaks_detected
+1448144,375,0,,36.421629021218344,no_breaks_detected
+1448145,471,0,,36.577686516084874,no_breaks_detected
+1448148,340,0,,36.50924024640657,no_breaks_detected
+1448153,519,0,,36.596851471594796,no_breaks_detected
+1448157,559,0,,36.903490759753595,no_breaks_detected
+1448158,529,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448159,255,0,,36.26830937713895,no_breaks_detected
+1448160,551,0,,36.596851471594796,no_breaks_detected
+1448161,271,0,,36.31211498973306,no_breaks_detected
+1448164,539,0,,36.85968514715948,no_breaks_detected
+1448165,278,0,,36.355920602327174,no_breaks_detected
+1448167,483,0,,36.596851471594796,no_breaks_detected
+1448172,549,0,,36.61875427789185,no_breaks_detected
+1448173,375,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448174,412,0,,36.290212183436005,no_breaks_detected
+1448175,479,0,,36.596851471594796,no_breaks_detected
+1448176,466,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448177,325,0,,36.158795345653665,no_breaks_detected
+1448178,281,0,,36.50924024640657,no_breaks_detected
+1448180,268,0,,36.50924024640657,no_breaks_detected
+1448181,414,0,,36.88158795345654,no_breaks_detected
+1448182,387,0,,36.421629021218344,no_breaks_detected
+1448185,361,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448187,280,0,,36.290212183436005,no_breaks_detected
+1448188,435,0,,36.446269678302535,no_breaks_detected
+1448189,429,0,,36.577686516084874,no_breaks_detected
+1448190,370,0,,36.79397672826831,no_breaks_detected
+1448191,340,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448193,486,0,,36.596851471594796,no_breaks_detected
+1448194,562,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448196,565,0,,36.596851471594796,no_breaks_detected
+1448197,275,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448198,714,0,,36.92539356605065,no_breaks_detected
+1448200,285,0,,36.290212183436005,no_breaks_detected
+1448201,339,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448202,568,0,,36.903490759753595,no_breaks_detected
+1448205,572,0,,36.7501711156742,no_breaks_detected
+1448206,341,0,,36.577686516084874,no_breaks_detected
+1448207,379,0,,36.81587953456537,no_breaks_detected
+1448208,317,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448209,289,0,,36.224503764544835,no_breaks_detected
+1448211,344,0,,36.577686516084874,no_breaks_detected
+1448212,256,0,,36.00547570157426,no_breaks_detected
+1448214,490,0,,36.50924024640657,no_breaks_detected
+1448215,403,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448217,521,0,,36.64065708418891,no_breaks_detected
+1448218,317,0,,36.290212183436005,no_breaks_detected
+1448219,275,0,,36.049281314168375,no_breaks_detected
+1448221,284,0,,36.290212183436005,no_breaks_detected
+1448222,400,0,,36.290212183436005,no_breaks_detected
+1448223,310,0,,36.421629021218344,no_breaks_detected
+1448225,494,0,,36.577686516084874,no_breaks_detected
+1448228,269,0,,36.224503764544835,no_breaks_detected
+1448229,417,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448230,820,0,,36.79397672826831,no_breaks_detected
+1448231,449,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448232,291,0,,36.50924024640657,no_breaks_detected
+1448233,277,0,,36.61875427789185,no_breaks_detected
+1448234,381,0,,36.81587953456537,no_breaks_detected
+1448235,464,0,,36.50924024640657,no_breaks_detected
+1448237,573,0,,36.92539356605065,no_breaks_detected
+1448239,373,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448242,270,0,,36.50924024640657,no_breaks_detected
+1448243,521,0,,36.61875427789185,no_breaks_detected
+1448245,541,0,,36.596851471594796,no_breaks_detected
+1448246,534,0,,36.596851471594796,no_breaks_detected
+1448249,263,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448250,433,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448251,274,0,,36.290212183436005,no_breaks_detected
+1448255,453,0,,36.596851471594796,no_breaks_detected
+1448257,440,0,,36.596851471594796,no_breaks_detected
+1448258,264,0,,36.224503764544835,no_breaks_detected
+1448261,332,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448263,264,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448266,255,0,,36.50924024640657,no_breaks_detected
+1448268,594,0,,36.596851471594796,no_breaks_detected
+1448269,291,0,,36.290212183436005,no_breaks_detected
+1448271,522,0,,36.50924024640657,no_breaks_detected
+1448272,434,0,,36.577686516084874,no_breaks_detected
+1448273,393,0,,36.772073921971256,no_breaks_detected
+1448274,268,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448276,693,0,,36.85968514715948,no_breaks_detected
+1448280,373,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448281,559,0,,36.65982203969884,no_breaks_detected
+1448282,267,0,,36.50924024640657,no_breaks_detected
+1448283,456,0,,36.26830937713895,no_breaks_detected
+1448284,266,0,,36.290212183436005,no_breaks_detected
+1448285,462,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448286,263,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448287,259,0,,36.290212183436005,no_breaks_detected
+1448288,575,0,,36.55304585900068,no_breaks_detected
+1448289,246,0,,36.421629021218344,no_breaks_detected
+1448290,322,0,,36.224503764544835,no_breaks_detected
+1448291,307,0,,36.39972621492129,no_breaks_detected
+1448292,503,0,,36.65982203969884,no_breaks_detected
+1448294,273,0,,36.224503764544835,no_breaks_detected
+1448296,529,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448297,321,0,,36.224503764544835,no_breaks_detected
+1448298,785,0,,36.92539356605065,no_breaks_detected
+1448299,263,0,,36.421629021218344,no_breaks_detected
+1448300,262,0,,36.290212183436005,no_breaks_detected
+1448301,414,0,,36.577686516084874,no_breaks_detected
+1448302,592,0,,36.596851471594796,no_breaks_detected
+1448303,398,0,,36.772073921971256,no_breaks_detected
+1448304,439,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448305,332,0,,36.290212183436005,no_breaks_detected
+1448306,369,0,,36.92539356605065,no_breaks_detected
+1448307,369,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448308,402,0,,36.88158795345654,no_breaks_detected
+1448309,257,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448310,386,0,,36.81587953456537,no_breaks_detected
+1448311,568,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448312,256,0,,36.290212183436005,no_breaks_detected
+1448313,303,0,,36.50924024640657,no_breaks_detected
+1448314,656,0,,36.79397672826831,no_breaks_detected
+1448315,350,0,,36.50924024640657,no_breaks_detected
+1448316,428,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448319,354,0,,36.39972621492129,no_breaks_detected
+1448320,265,0,,36.421629021218344,no_breaks_detected
+1448321,639,0,,36.72826830937714,no_breaks_detected
+1448324,360,0,,36.577686516084874,no_breaks_detected
+1448326,464,0,,36.65982203969884,no_breaks_detected
+1448327,264,0,,36.50924024640657,no_breaks_detected
+1448328,275,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448330,281,0,,36.4435318275154,no_breaks_detected
+1448334,422,0,,36.92539356605065,no_breaks_detected
+1448336,302,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448337,347,0,,36.39972621492129,no_breaks_detected
+1448339,264,0,,36.290212183436005,no_breaks_detected
+1448341,373,0,,36.72826830937714,no_breaks_detected
+1448342,434,0,,36.577686516084874,no_breaks_detected
+1448343,472,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448344,732,0,,36.92539356605065,no_breaks_detected
+1448345,542,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448346,729,0,,36.79397672826831,no_breaks_detected
+1448347,265,0,,36.290212183436005,no_breaks_detected
+1448348,275,0,,36.33401779603012,no_breaks_detected
+1448349,283,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448351,591,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448352,474,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448354,471,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448355,473,0,,36.65982203969884,no_breaks_detected
+1448356,313,0,,36.50924024640657,no_breaks_detected
+1448358,425,0,,36.446269678302535,no_breaks_detected
+1448359,252,0,,36.31211498973306,no_breaks_detected
+1448360,401,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448361,408,0,,36.7501711156742,no_breaks_detected
+1448365,284,0,,36.50924024640657,no_breaks_detected
+1448366,818,0,,36.92539356605065,no_breaks_detected
+1448368,281,0,,36.50924024640657,no_breaks_detected
+1448369,444,0,,36.577686516084874,no_breaks_detected
+1448370,648,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448372,451,0,,36.22724161533196,no_breaks_detected
+1448374,309,0,,36.33401779603012,no_breaks_detected
+1448375,527,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448376,598,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448377,556,0,,36.65982203969884,no_breaks_detected
+1448381,702,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448383,310,0,,36.290212183436005,no_breaks_detected
+1448386,454,0,,36.40246406570842,no_breaks_detected
+1448387,349,0,,36.772073921971256,no_breaks_detected
+1448390,286,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448391,271,0,,36.290212183436005,no_breaks_detected
+1448393,280,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448394,441,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448395,264,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448396,532,0,,36.577686516084874,no_breaks_detected
+1448399,456,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448402,265,0,,36.50924024640657,no_breaks_detected
+1448403,450,0,,36.65982203969884,no_breaks_detected
+1448404,386,0,,36.79397672826831,no_breaks_detected
+1448405,303,0,,36.4435318275154,no_breaks_detected
+1448406,586,0,,36.596851471594796,no_breaks_detected
+1448407,340,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448408,278,0,,36.50924024640657,no_breaks_detected
+1448411,547,0,,36.88158795345654,no_breaks_detected
+1448415,562,0,,36.772073921971256,no_breaks_detected
+1448418,583,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448419,328,0,,36.50924024640657,no_breaks_detected
+1448421,397,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448425,362,0,,36.577686516084874,no_breaks_detected
+1448427,418,0,,36.50924024640657,no_breaks_detected
+1448428,228,0,,36.224503764544835,no_breaks_detected
+1448429,530,0,,36.65982203969884,no_breaks_detected
+1448430,762,0,,36.643394934976044,no_breaks_detected
+1448431,444,0,,36.577686516084874,no_breaks_detected
+1448432,390,0,,36.772073921971256,no_breaks_detected
+1448434,256,0,,36.4435318275154,no_breaks_detected
+1448436,261,0,,36.20260095824778,no_breaks_detected
+1448438,310,0,,36.50924024640657,no_breaks_detected
+1448442,388,0,,36.72826830937714,no_breaks_detected
+1448444,489,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448446,328,0,,36.79397672826831,no_breaks_detected
+1448447,411,0,,36.88158795345654,no_breaks_detected
+1448450,489,0,,36.26830937713895,no_breaks_detected
+1448451,369,0,,36.81587953456537,no_breaks_detected
+1448453,587,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448454,583,0,,36.596851471594796,no_breaks_detected
+1448455,565,0,,36.903490759753595,no_breaks_detected
+1448456,428,0,,36.50924024640657,no_breaks_detected
+1448458,590,0,,36.61875427789185,no_breaks_detected
+1448461,421,0,,36.596851471594796,no_breaks_detected
+1448462,372,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448463,256,0,,36.18069815195072,no_breaks_detected
+1448465,436,0,,36.49007529089665,no_breaks_detected
+1448466,339,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448468,333,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448469,684,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448472,311,0,,36.50924024640657,no_breaks_detected
+1448475,298,0,,36.355920602327174,no_breaks_detected
+1448476,259,0,,36.39972621492129,no_breaks_detected
+1448477,278,0,,36.290212183436005,no_breaks_detected
+1448478,285,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448480,580,0,,36.903490759753595,no_breaks_detected
+1448481,279,0,,36.421629021218344,no_breaks_detected
+1448482,601,0,,36.577686516084874,no_breaks_detected
+1448483,287,0,,36.50924024640657,no_breaks_detected
+1448484,430,0,,36.577686516084874,no_breaks_detected
+1448485,379,0,,36.903490759753595,no_breaks_detected
+1448487,462,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448489,437,0,,36.40246406570842,no_breaks_detected
+1448490,300,0,,36.50924024640657,no_breaks_detected
+1448496,576,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448497,447,0,,36.50924024640657,no_breaks_detected
+1448498,399,0,,36.88158795345654,no_breaks_detected
+1448499,279,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448500,582,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448501,466,0,,36.72826830937714,no_breaks_detected
+1448503,573,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448505,485,0,,36.72826830937714,no_breaks_detected
+1448511,323,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448512,509,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448513,661,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448514,280,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448522,345,0,,36.4435318275154,no_breaks_detected
+1448523,546,0,,36.65982203969884,no_breaks_detected
+1448525,709,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448526,367,0,,36.577686516084874,no_breaks_detected
+1448529,330,0,,36.50924024640657,no_breaks_detected
+1448530,517,0,,36.577686516084874,no_breaks_detected
+1448531,271,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448535,331,0,,36.39972621492129,no_breaks_detected
+1448536,719,0,,36.662559890485966,no_breaks_detected
+1448538,652,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448540,367,0,,36.92539356605065,no_breaks_detected
+1448542,293,0,,36.290212183436005,no_breaks_detected
+1448543,450,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448544,575,0,,36.40246406570842,no_breaks_detected
+1448546,391,0,,36.81587953456537,no_breaks_detected
+1448548,401,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448549,328,0,,36.33401779603012,no_breaks_detected
+1448552,270,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448553,487,0,,36.3586584531143,no_breaks_detected
+1448554,488,0,,36.3586584531143,no_breaks_detected
+1448555,555,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448556,309,0,,36.290212183436005,no_breaks_detected
+1448558,430,0,,36.577686516084874,no_breaks_detected
+1448560,331,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448562,302,0,,36.50924024640657,no_breaks_detected
+1448563,525,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448564,383,0,,36.92539356605065,no_breaks_detected
+1448565,588,0,,36.903490759753595,no_breaks_detected
+1448566,367,0,,36.7501711156742,no_breaks_detected
+1448567,593,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448569,686,0,,36.79397672826831,no_breaks_detected
+1448570,459,0,,36.577686516084874,no_breaks_detected
+1448573,325,0,,36.31211498973306,no_breaks_detected
+1448574,419,0,,36.772073921971256,no_breaks_detected
+1448576,292,0,,36.290212183436005,no_breaks_detected
+1448577,262,0,,36.290212183436005,no_breaks_detected
+1448578,328,0,,36.26830937713895,no_breaks_detected
+1448579,277,0,,36.31211498973306,no_breaks_detected
+1448582,297,0,,36.224503764544835,no_breaks_detected
+1448583,780,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448584,475,0,,36.596851471594796,no_breaks_detected
+1448585,375,0,,36.92539356605065,no_breaks_detected
+1448586,572,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448587,497,0,,36.65982203969884,no_breaks_detected
+1448588,253,0,,36.224503764544835,no_breaks_detected
+1448592,441,0,,36.4435318275154,no_breaks_detected
+1448596,524,0,,36.446269678302535,no_breaks_detected
+1448600,281,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448602,259,0,,36.4435318275154,no_breaks_detected
+1448603,262,0,,36.50924024640657,no_breaks_detected
+1448605,535,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448606,261,0,,36.50924024640657,no_breaks_detected
+1448607,431,0,,36.50924024640657,no_breaks_detected
+1448608,603,0,,36.85968514715948,no_breaks_detected
+1448609,378,0,,36.81587953456537,no_breaks_detected
+1448610,599,0,,36.596851471594796,no_breaks_detected
+1448611,388,0,,36.92539356605065,no_breaks_detected
+1448612,313,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448613,374,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448614,357,0,,36.39972621492129,no_breaks_detected
+1448615,591,0,,36.903490759753595,no_breaks_detected
+1448618,405,0,,36.290212183436005,no_breaks_detected
+1448620,404,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448621,694,0,,36.643394934976044,no_breaks_detected
+1448622,415,0,,36.577686516084874,no_breaks_detected
+1448623,570,0,,36.61875427789185,no_breaks_detected
+1448625,237,0,,36.07118412046543,no_breaks_detected
+1448626,475,0,,36.65982203969884,no_breaks_detected
+1448629,271,0,,36.50924024640657,no_breaks_detected
+1448630,503,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448634,526,0,,36.46543463381246,no_breaks_detected
+1448635,386,0,,36.88158795345654,no_breaks_detected
+1448636,309,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448637,308,0,,36.290212183436005,no_breaks_detected
+1448639,577,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448641,262,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448642,291,0,,36.33401779603012,no_breaks_detected
+1448643,286,0,,36.50924024640657,no_breaks_detected
+1448644,260,0,,36.421629021218344,no_breaks_detected
+1448645,733,0,,36.85968514715948,no_breaks_detected
+1448648,335,0,,36.33401779603012,no_breaks_detected
+1448649,494,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448650,428,0,,36.50924024640657,no_breaks_detected
+1448651,276,0,,36.421629021218344,no_breaks_detected
+1448652,567,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448655,562,0,,36.68446269678302,no_breaks_detected
+1448658,477,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448659,553,0,,36.40246406570842,no_breaks_detected
+1448666,288,0,,36.4435318275154,no_breaks_detected
+1448667,286,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448668,257,0,,36.290212183436005,no_breaks_detected
+1448669,713,0,,36.79397672826831,no_breaks_detected
+1448671,252,0,,36.355920602327174,no_breaks_detected
+1448672,362,0,,36.81587953456537,no_breaks_detected
+1448675,391,0,,36.4435318275154,no_breaks_detected
+1448677,504,0,,36.22724161533196,no_breaks_detected
+1448678,272,0,,36.50924024640657,no_breaks_detected
+1448682,424,0,,36.577686516084874,no_breaks_detected
+1448683,279,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448686,485,0,,36.65982203969884,no_breaks_detected
+1448687,386,0,,36.577686516084874,no_breaks_detected
+1448688,317,0,,36.50924024640657,no_breaks_detected
+1448689,332,0,,36.224503764544835,no_breaks_detected
+1448695,291,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448698,254,0,,36.421629021218344,no_breaks_detected
+1448700,271,0,,36.4435318275154,no_breaks_detected
+1448701,404,0,,36.577686516084874,no_breaks_detected
+1448702,418,0,,36.421629021218344,no_breaks_detected
+1448703,286,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448704,563,0,,36.596851471594796,no_breaks_detected
+1448705,257,0,,36.421629021218344,no_breaks_detected
+1448706,571,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448708,365,0,,36.577686516084874,no_breaks_detected
+1448709,264,0,,36.290212183436005,no_breaks_detected
+1448711,696,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448712,490,0,,36.224503764544835,no_breaks_detected
+1448714,547,0,,36.72826830937714,no_breaks_detected
+1448715,298,0,,36.39972621492129,no_breaks_detected
+1448716,363,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448718,328,0,,36.50924024640657,no_breaks_detected
+1448720,376,0,,36.79397672826831,no_breaks_detected
+1448721,345,0,,36.50924024640657,no_breaks_detected
+1448724,382,0,,36.81587953456537,no_breaks_detected
+1448725,410,0,,36.81587953456537,no_breaks_detected
+1448727,332,0,,36.50924024640657,no_breaks_detected
+1448730,316,0,,36.355920602327174,no_breaks_detected
+1448735,349,0,,36.50924024640657,no_breaks_detected
+1448749,784,0,,36.92539356605065,no_breaks_detected
+1448751,515,0,,36.577686516084874,no_breaks_detected
+1448754,422,0,,36.81587953456537,no_breaks_detected
+1448755,389,0,,36.92539356605065,no_breaks_detected
+1448756,386,0,,36.81587953456537,no_breaks_detected
+1448758,574,0,,36.72826830937714,no_breaks_detected
+1448763,671,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448767,294,0,,36.50924024640657,no_breaks_detected
+1448768,606,0,,36.92539356605065,no_breaks_detected
+1448771,248,0,,36.158795345653665,no_breaks_detected
+1448773,370,0,,36.81587953456537,no_breaks_detected
+1448776,296,0,,36.290212183436005,no_breaks_detected
+1448777,288,0,,36.421629021218344,no_breaks_detected
+1448785,301,0,,36.50924024640657,no_breaks_detected
+1448786,384,0,,36.7501711156742,no_breaks_detected
+1448790,635,0,,36.72826830937714,no_breaks_detected
+1448792,549,0,,36.85968514715948,no_breaks_detected
+1448794,268,0,,36.50924024640657,no_breaks_detected
+1448797,282,0,,36.290212183436005,no_breaks_detected
+1448800,276,0,,36.50924024640657,no_breaks_detected
+1448802,368,0,,36.81587953456537,no_breaks_detected
+1448803,299,0,,36.50924024640657,no_breaks_detected
+1448807,356,0,,36.577686516084874,no_breaks_detected
+1448808,302,0,,36.4435318275154,no_breaks_detected
+1448809,643,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448810,596,0,,36.79123887748118,no_breaks_detected
+1448812,270,0,,36.224503764544835,no_breaks_detected
+1448814,369,0,,36.68446269678302,no_breaks_detected
+1448816,295,0,,36.39972621492129,no_breaks_detected
+1448822,799,0,,36.92539356605065,no_breaks_detected
+1448829,299,0,,36.50924024640657,no_breaks_detected
+1448830,322,0,,36.290212183436005,no_breaks_detected
+1448834,264,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448835,298,0,,36.224503764544835,no_breaks_detected
+1448840,334,0,,36.39972621492129,no_breaks_detected
+1448842,332,0,,36.224503764544835,no_breaks_detected
+1448843,250,0,,36.224503764544835,no_breaks_detected
+1448847,503,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448850,586,0,,36.72826830937714,no_breaks_detected
+1448852,369,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448856,700,0,,36.643394934976044,no_breaks_detected
+1448857,282,0,,36.4435318275154,no_breaks_detected
+1448866,559,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448867,299,0,,36.50924024640657,no_breaks_detected
+1448869,422,0,,36.92539356605065,no_breaks_detected
+1448870,588,0,,36.65982203969884,no_breaks_detected
+1448873,323,0,,36.50924024640657,no_breaks_detected
+1448875,385,0,,36.81587953456537,no_breaks_detected
+1448877,415,0,,36.81587953456537,no_breaks_detected
+1448878,323,0,,36.4435318275154,no_breaks_detected
+1448879,305,0,,36.39972621492129,no_breaks_detected
+1448883,284,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448886,367,0,,36.81587953456537,no_breaks_detected
+1448887,298,0,,36.290212183436005,no_breaks_detected
+1448888,726,0,,36.662559890485966,no_breaks_detected
+1448890,558,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448897,373,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448905,308,0,,36.50924024640657,no_breaks_detected
+1448907,558,0,,36.68446269678302,no_breaks_detected
+1448908,736,0,,36.79397672826831,no_breaks_detected
+1448910,378,0,,36.68446269678302,no_breaks_detected
+1448914,297,0,,36.09308692676249,no_breaks_detected
+1448917,284,0,,36.50924024640657,no_breaks_detected
+1448918,460,0,,36.49007529089665,no_breaks_detected
+1448924,393,0,,36.92539356605065,no_breaks_detected
+1448925,391,0,,36.81587953456537,no_breaks_detected
+1448930,255,0,,36.50924024640657,no_breaks_detected
+1448931,425,0,,36.7501711156742,no_breaks_detected
+1448935,699,0,,36.596851471594796,no_breaks_detected
+1448938,290,0,,36.4435318275154,no_breaks_detected
+1448940,377,0,,36.903490759753595,no_breaks_detected
+1448941,299,0,,36.4435318275154,no_breaks_detected
+1448942,590,0,,36.85968514715948,no_breaks_detected
+1448944,282,0,,36.50924024640657,no_breaks_detected
+1448945,305,0,,36.290212183436005,no_breaks_detected
+1448950,584,0,,36.85968514715948,no_breaks_detected
+1448953,426,0,,36.577686516084874,no_breaks_detected
+1448956,628,0,,36.64065708418891,no_breaks_detected
+1448957,440,0,,36.81587953456537,no_breaks_detected
+1448963,320,0,,36.33401779603012,no_breaks_detected
+1448965,406,0,,36.81587953456537,no_breaks_detected
+1448966,398,0,,36.903490759753595,no_breaks_detected
+1448974,290,0,,36.158795345653665,no_breaks_detected
+1448975,302,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448977,401,0,,36.92539356605065,no_breaks_detected
+1448979,293,0,,36.33401779603012,no_breaks_detected
+1448981,589,0,,36.65982203969884,no_breaks_detected
+1448982,305,0,,36.290212183436005,no_breaks_detected
+1448983,321,-1,,0.0,error: S-CCD function fails for pos = 1 
+1448984,415,0,,36.88158795345654,no_breaks_detected
+1448985,282,0,,36.290212183436005,no_breaks_detected
+1448990,383,0,,36.79397672826831,no_breaks_detected
+1448998,604,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449004,272,0,,36.39972621492129,no_breaks_detected
+1449005,284,0,,36.39972621492129,no_breaks_detected
+1449006,401,0,,36.81587953456537,no_breaks_detected
+1449016,328,0,,36.33401779603012,no_breaks_detected
+1449024,284,0,,36.290212183436005,no_breaks_detected
+1449028,320,0,,36.33401779603012,no_breaks_detected
+1449029,282,0,,36.290212183436005,no_breaks_detected
+1449030,533,0,,36.85968514715948,no_breaks_detected
+1449034,287,0,,36.421629021218344,no_breaks_detected
+1449040,437,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449047,305,0,,36.421629021218344,no_breaks_detected
+1449048,282,0,,36.39972621492129,no_breaks_detected
+1449050,327,0,,36.33401779603012,no_breaks_detected
+1449060,289,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449061,618,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449062,378,0,,36.50924024640657,no_breaks_detected
+1449068,382,0,,36.903490759753595,no_breaks_detected
+1449072,275,0,,36.4435318275154,no_breaks_detected
+1449083,508,0,,36.596851471594796,no_breaks_detected
+1449084,386,0,,36.81587953456537,no_breaks_detected
+1449086,429,0,,36.88158795345654,no_breaks_detected
+1449088,712,0,,36.79397672826831,no_breaks_detected
+1449089,390,0,,36.81587953456537,no_breaks_detected
+1449091,675,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449092,416,0,,36.4435318275154,no_breaks_detected
+1449094,299,0,,36.290212183436005,no_breaks_detected
+1449096,319,0,,36.50924024640657,no_breaks_detected
+1449100,288,0,,36.33401779603012,no_breaks_detected
+1449102,560,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449103,276,0,,36.39972621492129,no_breaks_detected
+1449112,280,0,,36.50924024640657,no_breaks_detected
+1449114,530,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449117,291,0,,36.4435318275154,no_breaks_detected
+1449121,294,0,,36.290212183436005,no_breaks_detected
+1449124,304,0,,36.224503764544835,no_breaks_detected
+1449127,333,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449129,284,0,,36.224503764544835,no_breaks_detected
+1449131,330,0,,36.39972621492129,no_breaks_detected
+1449132,712,0,,36.72826830937714,no_breaks_detected
+1449135,294,0,,36.421629021218344,no_breaks_detected
+1449137,277,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449142,371,0,,36.903490759753595,no_breaks_detected
+1449144,260,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449150,387,0,,36.81587953456537,no_breaks_detected
+1449151,708,0,,36.72826830937714,no_breaks_detected
+1449152,424,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449154,385,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449156,304,0,,36.290212183436005,no_breaks_detected
+1449161,417,0,,36.81587953456537,no_breaks_detected
+1449162,269,0,,36.290212183436005,no_breaks_detected
+1449164,490,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449168,394,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449169,274,0,,36.290212183436005,no_breaks_detected
+1449172,408,0,,36.81587953456537,no_breaks_detected
+1449182,559,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449184,387,0,,36.7501711156742,no_breaks_detected
+1449189,473,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449193,403,0,,36.68446269678302,no_breaks_detected
+1449198,298,0,,36.39972621492129,no_breaks_detected
+1449202,278,0,,36.50924024640657,no_breaks_detected
+1449203,280,0,,36.39972621492129,no_breaks_detected
+1449205,283,0,,36.39972621492129,no_breaks_detected
+1449220,284,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449223,401,0,,36.81587953456537,no_breaks_detected
+1449224,291,0,,36.290212183436005,no_breaks_detected
+1449225,645,0,,36.772073921971256,no_breaks_detected
+1449226,721,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449232,283,0,,36.39972621492129,no_breaks_detected
+1449233,680,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449235,497,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449240,368,0,,36.4435318275154,no_breaks_detected
+1449242,248,0,,36.158795345653665,no_breaks_detected
+1449243,275,0,,36.31211498973306,no_breaks_detected
+1449252,543,0,,36.596851471594796,no_breaks_detected
+1449258,365,0,,36.772073921971256,no_breaks_detected
+1449260,275,0,,36.421629021218344,no_breaks_detected
+1449262,288,0,,36.290212183436005,no_breaks_detected
+1449265,636,0,,36.72826830937714,no_breaks_detected
+1449269,678,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449272,286,0,,36.31211498973306,no_breaks_detected
+1449274,266,0,,36.355920602327174,no_breaks_detected
+1449275,254,0,,36.39972621492129,no_breaks_detected
+1449276,296,0,,36.421629021218344,no_breaks_detected
+1449280,287,0,,36.50924024640657,no_breaks_detected
+1449281,720,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449285,269,0,,36.421629021218344,no_breaks_detected
+1449291,314,0,,36.50924024640657,no_breaks_detected
+1449292,301,0,,36.50924024640657,no_breaks_detected
+1449293,274,0,,36.50924024640657,no_breaks_detected
+1449294,294,0,,36.4435318275154,no_breaks_detected
+1449295,761,0,,36.92539356605065,no_breaks_detected
+1449298,363,0,,36.68446269678302,no_breaks_detected
+1449299,264,0,,36.50924024640657,no_breaks_detected
+1449302,572,0,,36.72826830937714,no_breaks_detected
+1449305,295,0,,36.50924024640657,no_breaks_detected
+1449307,363,0,,36.50924024640657,no_breaks_detected
+1449308,627,0,,36.81587953456537,no_breaks_detected
+1449312,281,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449313,352,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449320,292,0,,36.92539356605065,no_breaks_detected
+1449325,402,0,,36.85968514715948,no_breaks_detected
+1449327,384,0,,36.92539356605065,no_breaks_detected
+1449329,395,0,,36.92539356605065,no_breaks_detected
+1449332,407,0,,36.92539356605065,no_breaks_detected
+1449336,377,0,,36.903490759753595,no_breaks_detected
+1449337,365,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449339,295,0,,36.92539356605065,no_breaks_detected
+1449341,419,0,,36.772073921971256,no_breaks_detected
+1449342,357,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449344,400,0,,36.92539356605065,no_breaks_detected
+1449349,373,0,,36.903490759753595,no_breaks_detected
+1449350,382,0,,36.92539356605065,no_breaks_detected
+1449354,303,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449358,423,0,,36.92539356605065,no_breaks_detected
+1449363,402,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449367,360,0,,36.79397672826831,no_breaks_detected
+1449370,391,0,,36.772073921971256,no_breaks_detected
+1449371,357,0,,36.88158795345654,no_breaks_detected
+1449378,324,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449379,332,0,,36.88158795345654,no_breaks_detected
+1449381,320,0,,36.92539356605065,no_breaks_detected
+1449382,417,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449383,353,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449385,394,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449388,392,0,,36.88158795345654,no_breaks_detected
+1449389,355,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449391,370,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449393,394,0,,36.92539356605065,no_breaks_detected
+1449396,358,0,,36.79397672826831,no_breaks_detected
+1449401,408,0,,36.81587953456537,no_breaks_detected
+1449403,376,0,,36.92539356605065,no_breaks_detected
+1449404,368,0,,36.92539356605065,no_breaks_detected
+1449405,374,0,,36.92539356605065,no_breaks_detected
+1449407,414,0,,36.92539356605065,no_breaks_detected
+1449409,402,0,,36.92539356605065,no_breaks_detected
+1449412,316,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449413,423,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449414,394,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449417,400,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449419,384,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449421,356,0,,36.81587953456537,no_breaks_detected
+1449425,344,0,,36.772073921971256,no_breaks_detected
+1449426,399,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449430,362,0,,36.79397672826831,no_breaks_detected
+1449432,321,0,,36.92539356605065,no_breaks_detected
+1449434,340,0,,36.92539356605065,no_breaks_detected
+1449435,417,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449436,324,0,,36.772073921971256,no_breaks_detected
+1449437,366,0,,36.92539356605065,no_breaks_detected
+1449448,405,0,,36.92539356605065,no_breaks_detected
+1449454,396,0,,36.79397672826831,no_breaks_detected
+1449456,432,0,,36.92539356605065,no_breaks_detected
+1449458,408,0,,36.88158795345654,no_breaks_detected
+1449460,287,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449461,368,0,,36.79397672826831,no_breaks_detected
+1449463,385,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449465,404,0,,36.903490759753595,no_breaks_detected
+1449467,404,0,,36.92539356605065,no_breaks_detected
+1449472,364,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449474,348,0,,36.92539356605065,no_breaks_detected
+1449479,353,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449480,421,0,,36.92539356605065,no_breaks_detected
+1449481,421,0,,36.903490759753595,no_breaks_detected
+1449486,352,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449493,369,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449496,381,0,,36.88158795345654,no_breaks_detected
+1449499,373,0,,36.903490759753595,no_breaks_detected
+1449504,378,0,,36.81587953456537,no_breaks_detected
+1449506,389,0,,36.92539356605065,no_breaks_detected
+1449508,387,0,,36.92539356605065,no_breaks_detected
+1449510,388,0,,36.92539356605065,no_breaks_detected
+1449511,405,0,,36.88158795345654,no_breaks_detected
+1449514,396,0,,36.79397672826831,no_breaks_detected
+1449519,380,0,,36.92539356605065,no_breaks_detected
+1449524,423,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449525,388,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449526,346,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449527,400,0,,36.92539356605065,no_breaks_detected
+1449528,311,0,,36.92539356605065,no_breaks_detected
+1449530,350,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449537,373,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449539,378,0,,36.92539356605065,no_breaks_detected
+1449547,388,0,,36.92539356605065,no_breaks_detected
+1449548,383,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449549,374,0,,36.92539356605065,no_breaks_detected
+1449553,361,0,,36.79397672826831,no_breaks_detected
+1449559,341,0,,36.92539356605065,no_breaks_detected
+1449570,397,0,,36.88158795345654,no_breaks_detected
+1449574,405,0,,36.92539356605065,no_breaks_detected
+1449577,391,0,,36.81587953456537,no_breaks_detected
+1449579,337,0,,36.92539356605065,no_breaks_detected
+1449580,375,0,,36.92539356605065,no_breaks_detected
+1449582,385,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449583,322,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449584,380,0,,36.92539356605065,no_breaks_detected
+1449585,403,0,,36.903490759753595,no_breaks_detected
+1449591,244,0,,36.85968514715948,no_breaks_detected
+1449608,376,0,,36.92539356605065,no_breaks_detected
+1449610,411,0,,36.903490759753595,no_breaks_detected
+1449612,354,0,,36.81587953456537,no_breaks_detected
+1449614,421,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449615,315,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449617,371,0,,36.92539356605065,no_breaks_detected
+1449618,280,0,,36.85968514715948,no_breaks_detected
+1449621,405,0,,36.92539356605065,no_breaks_detected
+1449626,343,0,,36.79397672826831,no_breaks_detected
+1449627,357,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449630,363,0,,36.662559890485966,no_breaks_detected
+1449642,352,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449658,375,0,,36.92539356605065,no_breaks_detected
+1449659,397,0,,36.92539356605065,no_breaks_detected
+1449661,322,0,,36.92539356605065,no_breaks_detected
+1449666,319,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449667,402,0,,36.88158795345654,no_breaks_detected
+1449669,307,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449673,366,0,,36.79397672826831,no_breaks_detected
+1449674,401,0,,36.92539356605065,no_breaks_detected
+1449677,353,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449678,417,0,,36.92539356605065,no_breaks_detected
+1449682,387,0,,36.92539356605065,no_breaks_detected
+1449684,386,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449686,393,0,,36.772073921971256,no_breaks_detected
+1449690,389,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449691,342,0,,36.92539356605065,no_breaks_detected
+1449694,386,0,,36.92539356605065,no_breaks_detected
+1449700,354,0,,36.92539356605065,no_breaks_detected
+1449701,403,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449704,395,0,,36.92539356605065,no_breaks_detected
+1449705,416,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449706,354,0,,36.772073921971256,no_breaks_detected
+1449709,412,0,,36.92539356605065,no_breaks_detected
+1449715,385,0,,36.772073921971256,no_breaks_detected
+1449718,389,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449723,386,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449732,379,0,,36.92539356605065,no_breaks_detected
+1449733,368,0,,36.88158795345654,no_breaks_detected
+1449734,389,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449740,418,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449741,352,0,,36.92539356605065,no_breaks_detected
+1449747,300,0,,36.85968514715948,no_breaks_detected
+1449750,383,0,,36.81587953456537,no_breaks_detected
+1449751,402,0,,36.92539356605065,no_breaks_detected
+1449755,417,0,,36.772073921971256,no_breaks_detected
+1449757,401,0,,36.92539356605065,no_breaks_detected
+1449758,339,0,,36.92539356605065,no_breaks_detected
+1449761,280,0,,36.72826830937714,no_breaks_detected
+1449768,293,0,,36.903490759753595,no_breaks_detected
+1449770,397,0,,36.92539356605065,no_breaks_detected
+1449773,402,0,,36.903490759753595,no_breaks_detected
+1449778,383,0,,36.88158795345654,no_breaks_detected
+1449790,417,0,,36.7501711156742,no_breaks_detected
+1449795,367,0,,36.92539356605065,no_breaks_detected
+1449796,393,0,,36.92539356605065,no_breaks_detected
+1449797,355,0,,36.662559890485966,no_breaks_detected
+1449800,301,0,,36.772073921971256,no_breaks_detected
+1449802,383,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449803,382,0,,36.79397672826831,no_breaks_detected
+1449812,357,0,,36.79397672826831,no_breaks_detected
+1449815,391,0,,36.92539356605065,no_breaks_detected
+1449817,381,0,,36.88158795345654,no_breaks_detected
+1449820,303,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449821,357,0,,36.79397672826831,no_breaks_detected
+1449827,306,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449829,416,0,,36.92539356605065,no_breaks_detected
+1449834,373,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449835,343,0,,36.81587953456537,no_breaks_detected
+1449840,404,0,,36.88158795345654,no_breaks_detected
+1449843,281,0,,36.772073921971256,no_breaks_detected
+1449844,362,0,,36.88158795345654,no_breaks_detected
+1449845,341,0,,36.79397672826831,no_breaks_detected
+1449847,374,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449851,342,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449852,321,0,,36.903490759753595,no_breaks_detected
+1449854,253,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449857,394,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449860,308,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449864,380,0,,36.92539356605065,no_breaks_detected
+1449865,369,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449876,350,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449877,395,0,,36.81587953456537,no_breaks_detected
+1449879,419,0,,36.92539356605065,no_breaks_detected
+1449881,422,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449882,346,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449883,362,0,,36.662559890485966,no_breaks_detected
+1449886,379,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449888,394,0,,36.79397672826831,no_breaks_detected
+1449890,386,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449893,342,0,,36.903490759753595,no_breaks_detected
+1449894,333,0,,36.772073921971256,no_breaks_detected
+1449895,347,0,,36.772073921971256,no_breaks_detected
+1449901,390,0,,36.92539356605065,no_breaks_detected
+1449902,374,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449903,366,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449910,318,0,,36.772073921971256,no_breaks_detected
+1449946,386,0,,36.903490759753595,no_breaks_detected
+1449948,387,0,,36.81587953456537,no_breaks_detected
+1449961,383,0,,36.79397672826831,no_breaks_detected
+1449965,373,0,,36.92539356605065,no_breaks_detected
+1449966,371,-1,,0.0,error: S-CCD function fails for pos = 1 
+1449997,383,-1,,0.0,error: S-CCD function fails for pos = 1 
+1450010,428,0,,36.81587953456537,no_breaks_detected
+1450018,382,-1,,0.0,error: S-CCD function fails for pos = 1 
+1450019,373,0,,36.903490759753595,no_breaks_detected
+1450021,397,0,,36.92539356605065,no_breaks_detected
+1450024,413,0,,36.92539356605065,no_breaks_detected
+1450025,395,0,,36.64065708418891,no_breaks_detected
+1450050,404,-1,,0.0,error: S-CCD function fails for pos = 1 
+1450053,395,0,,36.92539356605065,no_breaks_detected
+1450060,407,0,,36.92539356605065,no_breaks_detected
+1450062,417,0,,36.92539356605065,no_breaks_detected
+1450094,416,0,,36.92539356605065,no_breaks_detected
+1450107,370,0,,36.903490759753595,no_breaks_detected
+1450108,392,0,,36.92539356605065,no_breaks_detected
+1450117,394,-1,,0.0,error: S-CCD function fails for pos = 1 
+1450136,388,0,,36.92539356605065,no_breaks_detected
+1450147,386,0,,36.772073921971256,no_breaks_detected
+1450208,389,-1,,0.0,error: S-CCD function fails for pos = 1 
+1450221,399,0,,36.662559890485966,no_breaks_detected
+1450222,404,0,,36.92539356605065,no_breaks_detected
+1450230,390,0,,36.92539356605065,no_breaks_detected
+1450251,388,0,,36.903490759753595,no_breaks_detected
+1450254,375,0,,36.92539356605065,no_breaks_detected
+1450258,430,-1,,0.0,error: S-CCD function fails for pos = 1 
+1450263,399,0,,36.92539356605065,no_breaks_detected
+1450267,388,-1,,0.0,error: S-CCD function fails for pos = 1 
+1450270,389,-1,,0.0,error: S-CCD function fails for pos = 1 
+1450275,428,-1,,0.0,error: S-CCD function fails for pos = 1 
+1450287,391,-1,,0.0,error: S-CCD function fails for pos = 1 
+1450312,391,-1,,0.0,error: S-CCD function fails for pos = 1 
+1450397,368,-1,,0.0,error: S-CCD function fails for pos = 1 
+1450411,384,0,,36.92539356605065,no_breaks_detected
+1450420,371,0,,36.92539356605065,no_breaks_detected
+1450424,385,0,,36.81587953456537,no_breaks_detected
+1450426,424,0,,36.92539356605065,no_breaks_detected
+1450437,421,0,,36.81587953456537,no_breaks_detected
+1450448,407,-1,,0.0,error: S-CCD function fails for pos = 1 
+1450453,373,-1,,0.0,error: S-CCD function fails for pos = 1 
+1450456,405,-1,,0.0,error: S-CCD function fails for pos = 1 
+1450481,393,-1,,0.0,error: S-CCD function fails for pos = 1 
+1450486,375,0,,36.903490759753595,no_breaks_detected
+1450505,383,0,,36.92539356605065,no_breaks_detected
+1480471,850,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480472,782,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480473,613,0,,36.90075290896646,no_breaks_detected
+1480474,808,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480475,633,0,,36.76933607118412,no_breaks_detected
+1480476,636,0,,36.76933607118412,no_breaks_detected
+1480477,819,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480478,752,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480479,769,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480480,742,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480481,532,0,,36.903490759753595,no_breaks_detected
+1480482,628,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480483,395,0,,36.903490759753595,no_breaks_detected
+1480484,591,0,,36.903490759753595,no_breaks_detected
+1480485,532,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480486,709,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480487,580,0,,36.37782340862423,no_breaks_detected
+1480488,790,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480489,675,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480490,744,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480491,752,0,,36.92539356605065,no_breaks_detected
+1480492,763,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480493,708,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480494,827,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480495,781,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480496,748,0,,36.643394934976044,no_breaks_detected
+1480497,820,0,,36.90075290896646,no_breaks_detected
+1480498,808,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480499,812,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480500,669,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480501,640,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480502,614,0,,36.90075290896646,no_breaks_detected
+1480503,715,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480504,718,0,,36.92539356605065,no_breaks_detected
+1480505,799,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480506,532,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480507,792,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480508,722,0,,36.662559890485966,no_breaks_detected
+1480509,738,0,,36.643394934976044,no_breaks_detected
+1480510,729,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480511,649,0,,36.63791923340178,no_breaks_detected
+1480512,791,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480513,731,0,,36.643394934976044,no_breaks_detected
+1480514,438,0,,36.85968514715948,no_breaks_detected
+1480515,747,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480516,844,0,,36.64065708418891,no_breaks_detected
+1480517,643,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480518,614,0,,36.90075290896646,no_breaks_detected
+1480519,847,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480520,776,0,,36.903490759753595,no_breaks_detected
+1480521,803,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480522,801,0,,36.90075290896646,no_breaks_detected
+1480523,746,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480524,481,0,,36.92539356605065,no_breaks_detected
+1480525,806,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480526,731,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480527,449,0,,36.92539356605065,no_breaks_detected
+1480528,768,0,,36.903490759753595,no_breaks_detected
+1480529,764,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480530,407,0,,36.92539356605065,no_breaks_detected
+1480531,669,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480532,626,0,,36.76933607118412,no_breaks_detected
+1480533,719,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480534,760,0,,36.643394934976044,no_breaks_detected
+1480535,768,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480536,728,0,,36.596851471594796,no_breaks_detected
+1480537,657,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480538,857,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480539,714,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480540,646,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480541,580,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480542,754,0,,36.92539356605065,no_breaks_detected
+1480543,739,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480544,864,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480545,485,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480546,757,0,,36.92539356605065,no_breaks_detected
+1480547,662,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480548,721,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480549,765,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480550,815,0,,36.90075290896646,no_breaks_detected
+1480551,611,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480552,822,0,,36.903490759753595,no_breaks_detected
+1480553,616,0,,36.85968514715948,no_breaks_detected
+1480554,476,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480555,837,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480556,724,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480557,810,0,,36.662559890485966,no_breaks_detected
+1480558,742,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480559,723,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480560,652,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480561,519,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480562,791,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480563,581,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480564,732,0,,36.643394934976044,no_breaks_detected
+1480565,720,0,,36.662559890485966,no_breaks_detected
+1480566,753,0,,36.662559890485966,no_breaks_detected
+1480567,729,0,,36.63791923340178,no_breaks_detected
+1480568,682,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480569,744,0,,36.643394934976044,no_breaks_detected
+1480570,828,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480571,753,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480572,552,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480573,533,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480574,382,0,,36.92539356605065,no_breaks_detected
+1480575,597,0,,36.903490759753595,no_breaks_detected
+1480576,549,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480577,587,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480578,747,0,,36.643394934976044,no_breaks_detected
+1480579,418,0,,36.92539356605065,no_breaks_detected
+1480580,559,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480581,534,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480582,632,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480583,583,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480584,753,0,,36.92539356605065,no_breaks_detected
+1480585,615,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480586,749,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480587,761,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480588,757,0,,36.92539356605065,no_breaks_detected
+1480589,801,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480590,818,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480591,625,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480592,628,0,,36.903490759753595,no_breaks_detected
+1480593,647,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480594,760,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480595,479,0,,36.4435318275154,no_breaks_detected
+1480596,641,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480597,811,0,,36.90075290896646,no_breaks_detected
+1480598,754,0,,36.92539356605065,no_breaks_detected
+1480599,539,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480600,636,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480601,735,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480602,818,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480603,843,0,,36.90075290896646,no_breaks_detected
+1480604,757,0,,36.90075290896646,no_breaks_detected
+1480605,758,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480606,534,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480607,838,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480608,784,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480609,794,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480610,730,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480611,754,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480612,582,0,,36.85968514715948,no_breaks_detected
+1480613,778,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480614,355,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480615,629,0,,36.90075290896646,no_breaks_detected
+1480616,716,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480617,537,0,,36.63791923340178,no_breaks_detected
+1480618,733,0,,36.662559890485966,no_breaks_detected
+1480619,776,0,,36.90075290896646,no_breaks_detected
+1480620,536,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480621,761,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480622,776,0,,36.92539356605065,no_breaks_detected
+1480623,713,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480624,614,0,,36.90075290896646,no_breaks_detected
+1480625,751,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480626,556,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480627,578,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480628,622,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480629,813,0,,36.90075290896646,no_breaks_detected
+1480630,586,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480631,740,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480632,604,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480633,763,0,,36.662559890485966,no_breaks_detected
+1480634,625,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480635,610,0,,36.90075290896646,no_breaks_detected
+1480636,728,0,,36.90075290896646,no_breaks_detected
+1480637,529,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480638,749,0,,36.643394934976044,no_breaks_detected
+1480639,766,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480640,633,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480641,753,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480642,737,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480643,729,0,,36.662559890485966,no_breaks_detected
+1480644,538,0,,36.64065708418891,no_breaks_detected
+1480645,807,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480646,607,0,,36.903490759753595,no_breaks_detected
+1480647,522,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480648,740,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480649,758,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480650,614,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480651,515,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480652,510,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480653,593,0,,36.903490759753595,no_breaks_detected
+1480654,707,0,,36.63791923340178,no_breaks_detected
+1480655,618,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480656,822,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480657,763,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480658,763,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480659,801,0,,36.92539356605065,no_breaks_detected
+1480660,798,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480661,656,0,,36.63791923340178,no_breaks_detected
+1480662,617,0,,36.90075290896646,no_breaks_detected
+1480663,479,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480664,636,0,,36.90075290896646,no_breaks_detected
+1480665,726,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480666,773,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480667,633,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480668,800,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480669,815,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480670,797,0,,36.92539356605065,no_breaks_detected
+1480671,670,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480672,431,0,,36.92539356605065,no_breaks_detected
+1480673,726,0,,36.92539356605065,no_breaks_detected
+1480674,723,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480675,622,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480676,667,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480677,625,0,,36.90075290896646,no_breaks_detected
+1480678,639,0,,36.90075290896646,no_breaks_detected
+1480679,810,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480680,795,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480681,743,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480682,736,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480683,540,0,,36.90075290896646,no_breaks_detected
+1480684,681,0,,36.90075290896646,no_breaks_detected
+1480685,614,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480686,838,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480687,463,0,,36.92539356605065,no_breaks_detected
+1480688,630,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480689,576,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480690,572,0,,36.85968514715948,no_breaks_detected
+1480691,802,0,,36.92539356605065,no_breaks_detected
+1480692,737,0,,36.90075290896646,no_breaks_detected
+1480693,582,0,,36.85968514715948,no_breaks_detected
+1480694,808,0,,36.662559890485966,no_breaks_detected
+1480695,690,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480696,841,0,,36.662559890485966,no_breaks_detected
+1480697,721,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480698,751,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480699,711,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480700,816,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480701,567,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480702,618,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480703,736,0,,36.643394934976044,no_breaks_detected
+1480704,808,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480705,740,0,,36.39972621492129,no_breaks_detected
+1480706,708,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480707,726,0,,36.63791923340178,no_breaks_detected
+1480708,750,0,,36.662559890485966,no_breaks_detected
+1480709,465,0,,36.596851471594796,no_breaks_detected
+1480710,527,0,,36.76933607118412,no_breaks_detected
+1480711,744,0,,36.92539356605065,no_breaks_detected
+1480712,783,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480713,533,0,,36.90075290896646,no_breaks_detected
+1480714,634,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480715,639,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480716,543,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480717,594,0,,36.85968514715948,no_breaks_detected
+1480718,731,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480719,820,0,,36.90075290896646,no_breaks_detected
+1480720,507,0,,36.662559890485966,no_breaks_detected
+1480721,736,0,,36.662559890485966,no_breaks_detected
+1480722,615,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480723,714,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480724,740,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480725,388,0,,36.92539356605065,no_breaks_detected
+1480726,645,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480727,622,0,,36.90075290896646,no_breaks_detected
+1480728,604,0,,36.903490759753595,no_breaks_detected
+1480729,590,0,,36.85968514715948,no_breaks_detected
+1480730,657,0,,36.662559890485966,no_breaks_detected
+1480731,755,0,,36.90075290896646,no_breaks_detected
+1480732,736,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480733,741,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480734,562,0,,36.85968514715948,no_breaks_detected
+1480735,568,0,,36.85968514715948,no_breaks_detected
+1480736,832,0,,36.903490759753595,no_breaks_detected
+1480737,764,0,,36.90075290896646,no_breaks_detected
+1480738,754,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480739,475,0,,36.92539356605065,no_breaks_detected
+1480740,739,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480741,816,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480742,618,0,,36.90075290896646,no_breaks_detected
+1480743,625,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480744,740,0,,36.92539356605065,no_breaks_detected
+1480745,735,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480746,731,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480747,670,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480748,560,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480749,651,0,,36.64065708418891,no_breaks_detected
+1480750,743,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480751,568,0,,36.903490759753595,no_breaks_detected
+1480752,552,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480753,786,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480754,627,0,,36.90075290896646,no_breaks_detected
+1480755,725,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480756,454,0,,36.772073921971256,no_breaks_detected
+1480757,620,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480758,717,0,,36.643394934976044,no_breaks_detected
+1480759,757,0,,36.662559890485966,no_breaks_detected
+1480760,792,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480761,533,0,,36.90075290896646,no_breaks_detected
+1480762,611,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480763,823,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480764,502,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480765,734,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480766,692,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480767,588,0,,36.903490759753595,no_breaks_detected
+1480768,560,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480769,463,0,,36.92539356605065,no_breaks_detected
+1480770,633,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480771,772,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480772,386,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480773,742,0,,36.76933607118412,no_breaks_detected
+1480774,753,0,,36.662559890485966,no_breaks_detected
+1480775,760,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480776,476,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480777,399,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480778,646,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480779,754,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480780,550,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480781,583,0,,36.903490759753595,no_breaks_detected
+1480782,748,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480783,600,0,,36.90075290896646,no_breaks_detected
+1480784,732,0,,36.92539356605065,no_breaks_detected
+1480785,734,0,,36.596851471594796,no_breaks_detected
+1480786,774,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480787,695,0,,36.64065708418891,no_breaks_detected
+1480788,640,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480789,796,0,,36.903490759753595,no_breaks_detected
+1480790,755,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480791,640,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480792,750,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480793,439,0,,36.85968514715948,no_breaks_detected
+1480794,718,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480795,769,0,,36.92539356605065,no_breaks_detected
+1480796,357,0,,36.92539356605065,no_breaks_detected
+1480797,628,0,,36.90075290896646,no_breaks_detected
+1480798,510,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480799,774,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480800,556,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480801,759,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480802,805,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480803,518,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480804,765,0,,36.643394934976044,no_breaks_detected
+1480805,829,0,,36.90075290896646,no_breaks_detected
+1480806,720,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480807,781,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480808,386,0,,36.92539356605065,no_breaks_detected
+1480809,586,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480810,721,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480811,784,0,,36.90075290896646,no_breaks_detected
+1480812,820,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480813,784,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480814,845,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480815,478,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480816,688,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480817,748,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480818,753,0,,36.643394934976044,no_breaks_detected
+1480819,790,0,,36.903490759753595,no_breaks_detected
+1480820,801,0,,36.90075290896646,no_breaks_detected
+1480821,592,0,,36.85968514715948,no_breaks_detected
+1480822,539,0,,36.85968514715948,no_breaks_detected
+1480823,827,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480824,718,0,,36.92539356605065,no_breaks_detected
+1480825,801,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480826,744,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480827,757,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480828,558,0,,36.90075290896646,no_breaks_detected
+1480829,795,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480830,435,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480831,710,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480832,731,0,,36.662559890485966,no_breaks_detected
+1480833,747,0,,36.643394934976044,no_breaks_detected
+1480834,800,0,,36.662559890485966,no_breaks_detected
+1480835,426,0,,36.85968514715948,no_breaks_detected
+1480836,638,0,,36.90075290896646,no_breaks_detected
+1480837,623,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480838,579,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480839,754,0,,36.92539356605065,no_breaks_detected
+1480840,743,0,,36.643394934976044,no_breaks_detected
+1480841,749,0,,36.92539356605065,no_breaks_detected
+1480842,729,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480843,569,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480844,629,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480845,649,0,,36.90075290896646,no_breaks_detected
+1480846,837,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480847,656,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480848,674,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480849,742,0,,36.63791923340178,no_breaks_detected
+1480850,748,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480851,661,0,,36.63791923340178,no_breaks_detected
+1480852,821,0,,36.79397672826831,no_breaks_detected
+1480853,754,0,,36.662559890485966,no_breaks_detected
+1480854,767,0,,36.90075290896646,no_breaks_detected
+1480855,778,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480856,612,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480857,412,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480858,679,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480859,834,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480860,727,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480861,532,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480862,588,0,,36.85968514715948,no_breaks_detected
+1480863,547,0,,36.903490759753595,no_breaks_detected
+1480864,733,0,,36.92539356605065,no_breaks_detected
+1480865,736,0,,36.79397672826831,no_breaks_detected
+1480866,748,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480867,720,0,,36.643394934976044,no_breaks_detected
+1480868,645,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480869,806,0,,36.903490759753595,no_breaks_detected
+1480870,675,0,,36.64065708418891,no_breaks_detected
+1480871,738,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480872,627,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480873,655,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480874,555,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480875,739,0,,36.92539356605065,no_breaks_detected
+1480876,650,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480877,578,0,,36.85968514715948,no_breaks_detected
+1480878,819,0,,36.903490759753595,no_breaks_detected
+1480879,739,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480880,516,0,,36.903490759753595,no_breaks_detected
+1480881,649,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480882,473,0,,36.92539356605065,no_breaks_detected
+1480883,745,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480884,792,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480885,767,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480886,731,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480887,771,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480888,626,0,,36.90075290896646,no_breaks_detected
+1480889,514,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480890,696,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480891,750,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480892,799,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480893,561,0,,36.903490759753595,no_breaks_detected
+1480894,814,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480895,524,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480896,768,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480897,753,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480898,714,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480899,777,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480900,761,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480901,736,0,,36.643394934976044,no_breaks_detected
+1480902,759,0,,36.90075290896646,no_breaks_detected
+1480903,601,0,,36.903490759753595,no_breaks_detected
+1480904,699,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480905,736,0,,36.643394934976044,no_breaks_detected
+1480906,669,0,,36.90075290896646,no_breaks_detected
+1480907,807,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480908,522,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480909,822,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480910,732,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480911,482,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480912,799,0,,36.903490759753595,no_breaks_detected
+1480913,738,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480914,553,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480915,736,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480916,354,0,,36.92539356605065,no_breaks_detected
+1480917,729,0,,36.662559890485966,no_breaks_detected
+1480918,696,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480919,650,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480920,772,0,,36.903490759753595,no_breaks_detected
+1480921,829,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480922,627,0,,36.90075290896646,no_breaks_detected
+1480923,543,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480924,745,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480925,609,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480926,706,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480927,667,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480928,472,0,,36.596851471594796,no_breaks_detected
+1480929,653,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480930,512,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480931,825,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480932,770,0,,36.90075290896646,no_breaks_detected
+1480933,554,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480934,390,0,,36.903490759753595,no_breaks_detected
+1480935,793,0,,36.90075290896646,no_breaks_detected
+1480936,726,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480937,723,0,,36.33401779603012,no_breaks_detected
+1480938,545,0,,36.85968514715948,no_breaks_detected
+1480939,729,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480940,755,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480941,779,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480942,651,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480943,767,0,,36.90075290896646,no_breaks_detected
+1480944,790,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480945,725,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480946,740,0,,36.39972621492129,no_breaks_detected
+1480947,741,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480948,641,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480949,662,0,,36.90075290896646,no_breaks_detected
+1480950,787,0,,36.903490759753595,no_breaks_detected
+1480951,739,0,,36.662559890485966,no_breaks_detected
+1480952,566,0,,36.85968514715948,no_breaks_detected
+1480953,755,0,,36.92539356605065,no_breaks_detected
+1480954,532,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480955,537,0,,36.64065708418891,no_breaks_detected
+1480956,642,0,,36.90075290896646,no_breaks_detected
+1480957,811,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480958,734,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480959,774,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480960,537,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480961,782,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480962,755,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480963,367,0,,36.92539356605065,no_breaks_detected
+1480964,531,0,,36.90075290896646,no_breaks_detected
+1480965,405,0,,36.85968514715948,no_breaks_detected
+1480966,390,0,,36.92539356605065,no_breaks_detected
+1480967,752,0,,36.92539356605065,no_breaks_detected
+1480968,722,0,,36.643394934976044,no_breaks_detected
+1480969,761,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480970,657,0,,36.63791923340178,no_breaks_detected
+1480971,745,0,,36.92539356605065,no_breaks_detected
+1480972,805,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480973,785,0,,36.903490759753595,no_breaks_detected
+1480974,813,0,,36.662559890485966,no_breaks_detected
+1480975,814,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480976,796,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480977,725,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480978,631,0,,36.90075290896646,no_breaks_detected
+1480979,737,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480980,739,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480981,732,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480982,616,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480983,641,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480984,796,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480985,750,0,,36.92539356605065,no_breaks_detected
+1480986,478,0,,36.92539356605065,no_breaks_detected
+1480987,724,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480988,822,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480989,729,0,,36.596851471594796,no_breaks_detected
+1480990,792,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480991,750,0,,36.92539356605065,no_breaks_detected
+1480992,543,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480993,610,0,,36.90075290896646,no_breaks_detected
+1480994,800,-1,,0.0,error: S-CCD function fails for pos = 1 
+1480995,784,0,,36.903490759753595,no_breaks_detected
+1480996,697,0,,36.63791923340178,no_breaks_detected
+1480997,553,0,,36.903490759753595,no_breaks_detected
+1480998,611,0,,36.90075290896646,no_breaks_detected
+1480999,757,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481000,743,0,,36.662559890485966,no_breaks_detected
+1481001,845,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481002,744,0,,36.643394934976044,no_breaks_detected
+1481003,725,0,,36.643394934976044,no_breaks_detected
+1481004,538,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481005,740,0,,36.662559890485966,no_breaks_detected
+1481006,658,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481007,800,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481008,667,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481009,479,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481010,660,0,,36.63791923340178,no_breaks_detected
+1481011,747,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481012,714,0,,36.643394934976044,no_breaks_detected
+1481013,805,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481014,544,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481015,804,0,,36.92539356605065,no_breaks_detected
+1481016,736,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481017,563,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481018,740,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481019,604,0,,36.76933607118412,no_breaks_detected
+1481020,624,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481021,628,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481022,797,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481023,553,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481024,775,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481025,737,0,,36.92539356605065,no_breaks_detected
+1481026,772,0,,36.662559890485966,no_breaks_detected
+1481027,627,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481028,605,0,,36.90075290896646,no_breaks_detected
+1481029,658,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481030,632,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481031,747,0,,36.903490759753595,no_breaks_detected
+1481032,696,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481033,789,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481034,603,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481035,712,0,,36.92539356605065,no_breaks_detected
+1481036,732,0,,36.76933607118412,no_breaks_detected
+1481037,766,0,,36.903490759753595,no_breaks_detected
+1481038,837,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481039,732,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481040,715,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481041,730,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481042,587,0,,36.37782340862423,no_breaks_detected
+1481043,582,0,,36.85968514715948,no_breaks_detected
+1481044,615,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481045,626,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481046,788,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481047,692,0,,36.92539356605065,no_breaks_detected
+1481048,443,0,,36.92539356605065,no_breaks_detected
+1481049,416,0,,36.85968514715948,no_breaks_detected
+1481050,606,0,,36.90075290896646,no_breaks_detected
+1481051,569,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481052,742,0,,36.643394934976044,no_breaks_detected
+1481053,746,0,,36.643394934976044,no_breaks_detected
+1481054,806,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481055,634,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481056,454,0,,36.92539356605065,no_breaks_detected
+1481057,412,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481058,703,0,,36.64065708418891,no_breaks_detected
+1481059,722,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481060,521,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481061,721,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481062,794,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481063,608,0,,36.76933607118412,no_breaks_detected
+1481064,805,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481065,542,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481066,807,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481067,741,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481068,796,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481069,615,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481070,653,0,,36.90075290896646,no_breaks_detected
+1481071,761,0,,36.90075290896646,no_breaks_detected
+1481072,840,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481073,382,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481074,781,0,,36.92539356605065,no_breaks_detected
+1481075,425,0,,36.92539356605065,no_breaks_detected
+1481076,761,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481077,682,0,,36.61875427789185,no_breaks_detected
+1481078,505,0,,36.903490759753595,no_breaks_detected
+1481079,791,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481080,793,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481081,350,0,,36.662559890485966,no_breaks_detected
+1481082,624,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481083,365,0,,36.92539356605065,no_breaks_detected
+1481084,730,0,,36.92539356605065,no_breaks_detected
+1481085,712,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481086,702,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481087,491,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481088,776,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481089,389,0,,36.85968514715948,no_breaks_detected
+1481090,711,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481091,431,0,,36.85968514715948,no_breaks_detected
+1481092,744,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481093,409,0,,36.85968514715948,no_breaks_detected
+1481094,737,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481095,796,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481096,742,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481097,777,0,,36.92539356605065,no_breaks_detected
+1481098,759,0,,36.90075290896646,no_breaks_detected
+1481099,528,0,,36.903490759753595,no_breaks_detected
+1481100,723,0,,36.39972621492129,no_breaks_detected
+1481101,698,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481102,778,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481103,774,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481104,652,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481105,703,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481106,407,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481107,688,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481108,826,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481109,493,0,,36.85968514715948,no_breaks_detected
+1481110,739,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481111,740,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481112,637,0,,36.772073921971256,no_breaks_detected
+1481113,851,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481114,773,0,,36.92539356605065,no_breaks_detected
+1481115,732,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481116,413,0,,36.85968514715948,no_breaks_detected
+1481117,776,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481118,687,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481119,396,0,,36.85968514715948,no_breaks_detected
+1481120,685,0,,36.61875427789185,no_breaks_detected
+1481121,770,0,,36.92539356605065,no_breaks_detected
+1481122,677,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481123,788,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481124,798,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481125,400,0,,36.85968514715948,no_breaks_detected
+1481126,772,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481127,708,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481128,431,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481129,809,0,,36.903490759753595,no_breaks_detected
+1481130,705,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481131,693,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481132,753,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481133,730,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481134,471,0,,36.85968514715948,no_breaks_detected
+1481135,794,0,,36.903490759753595,no_breaks_detected
+1481136,783,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481137,744,0,,36.92539356605065,no_breaks_detected
+1481138,623,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481139,740,0,,36.79397672826831,no_breaks_detected
+1481140,753,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481141,521,0,,36.85968514715948,no_breaks_detected
+1481142,831,0,,36.903490759753595,no_breaks_detected
+1481143,669,0,,36.61875427789185,no_breaks_detected
+1481144,709,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481145,665,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481146,779,0,,36.92539356605065,no_breaks_detected
+1481147,711,0,,36.90075290896646,no_breaks_detected
+1481148,696,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481149,716,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481150,699,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481151,542,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481152,686,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481153,755,0,,36.92539356605065,no_breaks_detected
+1481154,724,0,,36.90075290896646,no_breaks_detected
+1481155,630,0,,36.64065708418891,no_breaks_detected
+1481156,734,0,,36.79397672826831,no_breaks_detected
+1481157,759,0,,36.662559890485966,no_breaks_detected
+1481158,691,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481159,717,0,,36.662559890485966,no_breaks_detected
+1481160,394,0,,36.85968514715948,no_breaks_detected
+1481161,775,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481162,425,0,,36.85968514715948,no_breaks_detected
+1481163,767,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481164,703,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481165,629,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481166,635,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481167,690,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481168,433,0,,36.85968514715948,no_breaks_detected
+1481169,828,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481170,690,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481171,623,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481172,721,0,,36.76933607118412,no_breaks_detected
+1481173,728,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481174,374,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481175,483,0,,36.85968514715948,no_breaks_detected
+1481176,717,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481177,702,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481178,621,0,,36.64065708418891,no_breaks_detected
+1481179,772,0,,36.662559890485966,no_breaks_detected
+1481180,676,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481181,791,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481182,708,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481183,686,0,,36.76933607118412,no_breaks_detected
+1481184,840,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481185,732,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481186,489,0,,36.85968514715948,no_breaks_detected
+1481187,610,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481188,790,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481189,698,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481190,720,0,,36.643394934976044,no_breaks_detected
+1481191,824,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481192,718,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481193,649,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481194,518,0,,36.85968514715948,no_breaks_detected
+1481195,719,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481196,495,0,,36.903490759753595,no_breaks_detected
+1481197,809,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481198,748,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481199,726,0,,36.903490759753595,no_breaks_detected
+1481200,728,0,,36.39972621492129,no_breaks_detected
+1481201,824,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481202,831,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481203,546,0,,36.76933607118412,no_breaks_detected
+1481204,782,0,,36.92539356605065,no_breaks_detected
+1481205,639,0,,36.39972621492129,no_breaks_detected
+1481206,834,0,,36.903490759753595,no_breaks_detected
+1481207,708,0,,36.61875427789185,no_breaks_detected
+1481208,764,0,,36.90075290896646,no_breaks_detected
+1481209,413,0,,36.92539356605065,no_breaks_detected
+1481210,392,0,,36.92539356605065,no_breaks_detected
+1481211,723,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481212,780,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481213,389,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481214,687,0,,36.76933607118412,no_breaks_detected
+1481215,741,0,,36.90075290896646,no_breaks_detected
+1481216,771,0,,36.92539356605065,no_breaks_detected
+1481217,809,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481218,379,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481219,655,0,,36.772073921971256,no_breaks_detected
+1481220,727,0,,36.662559890485966,no_breaks_detected
+1481221,410,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481222,412,0,,36.85968514715948,no_breaks_detected
+1481223,763,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481224,708,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481225,653,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481226,832,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481227,763,0,,36.90075290896646,no_breaks_detected
+1481228,394,0,,36.85968514715948,no_breaks_detected
+1481229,834,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481230,782,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481231,720,0,,36.79397672826831,no_breaks_detected
+1481232,704,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481233,387,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481234,401,0,,36.85968514715948,no_breaks_detected
+1481235,669,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481236,747,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481237,690,0,,36.61875427789185,no_breaks_detected
+1481238,843,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481239,726,0,,36.79397672826831,no_breaks_detected
+1481240,403,0,,36.85968514715948,no_breaks_detected
+1481241,573,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481242,754,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481243,751,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481244,855,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481245,795,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481246,679,0,,36.76933607118412,no_breaks_detected
+1481247,773,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481248,789,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481249,767,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481250,828,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481251,411,0,,36.85968514715948,no_breaks_detected
+1481252,720,0,,36.79397672826831,no_breaks_detected
+1481253,407,0,,36.85968514715948,no_breaks_detected
+1481254,846,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481255,669,0,,36.61875427789185,no_breaks_detected
+1481256,740,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481257,573,0,,36.903490759753595,no_breaks_detected
+1481258,822,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481259,728,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481260,759,0,,36.90075290896646,no_breaks_detected
+1481261,789,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481262,786,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481263,573,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481264,383,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481265,621,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481266,777,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481267,849,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481268,836,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481269,755,0,,36.662559890485966,no_breaks_detected
+1481270,376,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481271,845,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481272,720,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481273,519,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481274,751,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481275,619,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481276,535,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481277,731,0,,36.79397672826831,no_breaks_detected
+1481278,849,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481279,716,0,,36.90075290896646,no_breaks_detected
+1481280,681,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481281,667,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481282,836,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481283,792,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481284,701,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481285,756,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481286,674,0,,36.76933607118412,no_breaks_detected
+1481287,721,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481288,787,0,,36.92539356605065,no_breaks_detected
+1481289,813,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481290,694,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481291,732,0,,36.79397672826831,no_breaks_detected
+1481292,771,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481293,821,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481294,781,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481295,784,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481296,852,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481297,620,0,,36.772073921971256,no_breaks_detected
+1481298,703,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481299,775,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481300,795,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481301,795,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481302,842,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481303,769,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481304,807,0,,36.903490759753595,no_breaks_detected
+1481305,625,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481306,618,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481307,753,0,,36.92539356605065,no_breaks_detected
+1481308,816,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481309,396,0,,36.85968514715948,no_breaks_detected
+1481310,681,0,,36.53114305270363,no_breaks_detected
+1481311,783,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481312,418,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481313,739,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481314,804,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481315,404,0,,36.85968514715948,no_breaks_detected
+1481316,844,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481317,621,0,,36.29295003422313,no_breaks_detected
+1481318,627,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481319,762,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481320,380,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481321,696,0,,36.63791923340178,no_breaks_detected
+1481322,853,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481323,780,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481324,740,0,,36.92539356605065,no_breaks_detected
+1481325,754,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481326,851,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481327,839,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481328,781,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481329,764,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481330,697,0,,36.61875427789185,no_breaks_detected
+1481331,422,0,,36.85968514715948,no_breaks_detected
+1481332,836,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481333,723,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481334,758,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481335,590,0,,36.903490759753595,no_breaks_detected
+1481336,856,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481337,514,0,,36.85968514715948,no_breaks_detected
+1481338,478,0,,36.903490759753595,no_breaks_detected
+1481339,785,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481340,774,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481341,779,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481342,796,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481343,728,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481344,808,0,,36.903490759753595,no_breaks_detected
+1481345,730,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481346,710,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481347,808,0,,36.903490759753595,no_breaks_detected
+1481348,368,0,,36.92539356605065,no_breaks_detected
+1481349,676,0,,36.61875427789185,no_breaks_detected
+1481350,727,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481351,748,0,,36.643394934976044,no_breaks_detected
+1481352,776,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481353,860,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481354,755,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481355,596,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481356,686,0,,36.76933607118412,no_breaks_detected
+1481357,384,0,,36.85968514715948,no_breaks_detected
+1481358,856,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481359,724,0,,36.92539356605065,no_breaks_detected
+1481360,816,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481361,741,0,,36.662559890485966,no_breaks_detected
+1481362,729,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481363,506,0,,36.903490759753595,no_breaks_detected
+1481364,421,0,,36.92539356605065,no_breaks_detected
+1481365,627,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481366,828,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481367,835,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481368,418,0,,36.85968514715948,no_breaks_detected
+1481369,743,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481370,486,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481371,379,0,,36.92539356605065,no_breaks_detected
+1481372,772,0,,36.662559890485966,no_breaks_detected
+1481373,379,0,,36.92539356605065,no_breaks_detected
+1481374,697,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481375,710,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481376,719,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481377,701,0,,36.76933607118412,no_breaks_detected
+1481378,700,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481379,616,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481380,694,0,,36.61875427789185,no_breaks_detected
+1481381,736,0,,36.903490759753595,no_breaks_detected
+1481382,707,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481383,581,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481384,699,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481385,762,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481386,743,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481387,752,0,,36.90075290896646,no_breaks_detected
+1481388,739,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481389,760,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481390,783,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481391,748,0,,36.92539356605065,no_breaks_detected
+1481392,772,0,,36.92539356605065,no_breaks_detected
+1481393,688,0,,36.76933607118412,no_breaks_detected
+1481394,657,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481395,724,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481396,748,0,,36.772073921971256,no_breaks_detected
+1481397,625,0,,36.63791923340178,no_breaks_detected
+1481398,686,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481399,393,0,,36.85968514715948,no_breaks_detected
+1481400,727,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481401,625,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481402,682,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481403,694,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481404,631,0,,36.76933607118412,no_breaks_detected
+1481405,731,0,,36.90075290896646,no_breaks_detected
+1481406,431,0,,36.92539356605065,no_breaks_detected
+1481407,699,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481408,765,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481409,790,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481410,793,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481411,828,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481412,782,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481413,572,0,,36.903490759753595,no_breaks_detected
+1481414,649,0,,36.90075290896646,no_breaks_detected
+1481415,616,0,,36.76933607118412,no_breaks_detected
+1481416,626,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481417,414,0,,36.92539356605065,no_breaks_detected
+1481418,664,0,,36.772073921971256,no_breaks_detected
+1481419,728,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481420,425,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481421,740,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481422,719,0,,36.903490759753595,no_breaks_detected
+1481423,771,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481424,393,0,,36.85968514715948,no_breaks_detected
+1481425,414,0,,36.92539356605065,no_breaks_detected
+1481426,806,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481427,799,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481428,685,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481429,594,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481430,755,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481431,772,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481432,572,0,,36.903490759753595,no_breaks_detected
+1481433,731,0,,36.79397672826831,no_breaks_detected
+1481434,721,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481435,832,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481436,409,0,,36.85968514715948,no_breaks_detected
+1481437,805,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481438,845,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481439,709,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481440,604,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481441,707,0,,36.63791923340178,no_breaks_detected
+1481442,767,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481443,401,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481444,783,0,,36.662559890485966,no_breaks_detected
+1481445,380,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481446,852,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481447,779,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481448,677,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481449,611,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481450,838,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481451,477,0,,36.772073921971256,no_breaks_detected
+1481452,699,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481453,690,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481454,763,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481455,789,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481456,405,0,,36.85968514715948,no_breaks_detected
+1481457,761,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481458,745,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481459,621,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481460,738,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481461,790,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481462,706,0,,36.61875427789185,no_breaks_detected
+1481463,578,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481464,728,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481465,834,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481466,777,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481467,718,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481468,607,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481469,764,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481470,701,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481471,739,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481472,657,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481473,403,0,,36.85968514715948,no_breaks_detected
+1481474,800,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481475,631,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481476,404,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481477,772,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481478,737,0,,36.76933607118412,no_breaks_detected
+1481479,383,0,,36.92539356605065,no_breaks_detected
+1481480,774,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481481,769,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481482,658,0,,36.662559890485966,no_breaks_detected
+1481483,406,0,,36.85968514715948,no_breaks_detected
+1481484,766,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481485,764,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481486,704,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481487,779,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481488,512,0,,36.85968514715948,no_breaks_detected
+1481489,787,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481490,834,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481491,757,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481492,851,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481493,826,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481494,569,0,,36.903490759753595,no_breaks_detected
+1481495,745,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481496,423,0,,36.92539356605065,no_breaks_detected
+1481497,544,0,,36.903490759753595,no_breaks_detected
+1481498,779,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481499,775,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481500,710,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481501,689,0,,36.76933607118412,no_breaks_detected
+1481502,519,0,,36.85968514715948,no_breaks_detected
+1481503,707,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481504,764,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481505,714,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481506,413,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481507,624,0,,36.90075290896646,no_breaks_detected
+1481508,739,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481509,774,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481510,644,0,,36.662559890485966,no_breaks_detected
+1481511,683,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481512,714,0,,36.92539356605065,no_breaks_detected
+1481513,754,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481514,698,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481515,652,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481516,807,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481517,672,0,,36.76933607118412,no_breaks_detected
+1481518,779,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481519,414,0,,36.85968514715948,no_breaks_detected
+1481520,692,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481521,703,0,,36.63791923340178,no_breaks_detected
+1481522,621,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481523,413,0,,36.92539356605065,no_breaks_detected
+1481524,738,0,,36.92539356605065,no_breaks_detected
+1481525,788,0,,36.92539356605065,no_breaks_detected
+1481526,689,0,,36.76933607118412,no_breaks_detected
+1481527,766,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481528,424,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481529,809,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481530,692,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481531,766,0,,36.79397672826831,no_breaks_detected
+1481532,793,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481533,803,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481534,583,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481535,810,0,,36.903490759753595,no_breaks_detected
+1481536,743,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481537,782,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481538,570,0,,36.903490759753595,no_breaks_detected
+1481539,509,0,,36.903490759753595,no_breaks_detected
+1481540,788,0,,36.92539356605065,no_breaks_detected
+1481541,770,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481542,744,0,,36.903490759753595,no_breaks_detected
+1481543,379,0,,36.92539356605065,no_breaks_detected
+1481544,784,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481545,604,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481546,722,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481547,747,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481548,824,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481549,439,0,,36.85968514715948,no_breaks_detected
+1481550,599,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481551,605,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481552,723,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481553,404,0,,36.85968514715948,no_breaks_detected
+1481554,699,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481555,740,0,,36.643394934976044,no_breaks_detected
+1481556,705,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481557,829,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481558,769,0,,36.92539356605065,no_breaks_detected
+1481559,518,0,,36.903490759753595,no_breaks_detected
+1481560,757,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481561,738,0,,36.79397672826831,no_breaks_detected
+1481562,753,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481563,771,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481564,783,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481565,654,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481566,689,0,,36.63791923340178,no_breaks_detected
+1481567,413,0,,36.85968514715948,no_breaks_detected
+1481568,569,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481569,708,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481570,798,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481571,828,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481572,509,0,,36.85968514715948,no_breaks_detected
+1481573,366,0,,36.85968514715948,no_breaks_detected
+1481574,774,0,,36.903490759753595,no_breaks_detected
+1481575,737,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481576,552,0,,36.64065708418891,no_breaks_detected
+1481577,783,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481578,682,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481579,746,0,,36.643394934976044,no_breaks_detected
+1481580,379,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481581,789,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481582,760,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481583,686,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481584,675,0,,36.76933607118412,no_breaks_detected
+1481585,705,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481586,667,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481587,548,0,,36.903490759753595,no_breaks_detected
+1481588,729,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481589,701,0,,36.61875427789185,no_breaks_detected
+1481590,714,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481591,733,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481592,843,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481593,745,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481594,566,0,,36.76933607118412,no_breaks_detected
+1481595,731,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481596,522,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481597,723,0,,36.79397672826831,no_breaks_detected
+1481598,410,0,,36.85968514715948,no_breaks_detected
+1481599,561,0,,36.903490759753595,no_breaks_detected
+1481600,703,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481601,830,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481602,592,0,,36.903490759753595,no_breaks_detected
+1481603,779,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481604,752,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481605,557,0,,36.903490759753595,no_breaks_detected
+1481606,643,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481607,806,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481608,697,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481609,787,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481610,769,0,,36.92539356605065,no_breaks_detected
+1481611,731,0,,36.61875427789185,no_breaks_detected
+1481612,770,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481613,563,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481614,770,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481615,642,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481616,749,0,,36.92539356605065,no_breaks_detected
+1481617,725,0,,36.92539356605065,no_breaks_detected
+1481618,404,0,,36.85968514715948,no_breaks_detected
+1481619,746,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481620,665,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481621,752,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481622,552,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481623,469,0,,36.903490759753595,no_breaks_detected
+1481624,818,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481625,843,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481626,510,0,,36.85968514715948,no_breaks_detected
+1481627,766,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481628,707,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481629,791,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481630,720,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481631,828,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481632,748,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481633,801,0,,36.903490759753595,no_breaks_detected
+1481634,720,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481635,732,0,,36.79397672826831,no_breaks_detected
+1481636,739,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481637,726,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481638,728,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481639,414,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481640,769,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481641,783,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481642,780,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481643,581,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481644,394,0,,36.85968514715948,no_breaks_detected
+1481645,829,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481646,778,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481647,632,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481648,791,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481649,714,0,,36.61875427789185,no_breaks_detected
+1481650,725,0,,36.903490759753595,no_breaks_detected
+1481651,726,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481652,738,0,,36.79397672826831,no_breaks_detected
+1481653,712,0,,36.76933607118412,no_breaks_detected
+1481654,803,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481655,869,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481656,792,0,,36.92539356605065,no_breaks_detected
+1481657,518,0,,36.85968514715948,no_breaks_detected
+1481658,733,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481659,831,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481660,725,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481661,847,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481662,511,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481663,790,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481664,686,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481665,407,0,,36.92539356605065,no_breaks_detected
+1481666,849,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481667,787,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481668,707,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481669,672,-1,,0.0,error: S-CCD function fails for pos = 1 
+1481670,383,-1,,0.0,error: S-CCD function fails for pos = 1 

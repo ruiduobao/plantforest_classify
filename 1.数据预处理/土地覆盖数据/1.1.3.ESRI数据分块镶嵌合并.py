@@ -271,10 +271,10 @@ def main():
     主函数
     """
     # 定义路径
-    input_dir = r"F:\BaiduSyncdisk\论文\东南亚10m人工林提取\数据\土地覆盖数据\东南亚区域的分块_范围_裁剪"
-    output_dir = r"F:\BaiduSyncdisk\论文\东南亚10m人工林提取\数据\土地覆盖数据"
-    output_file = os.path.join(output_dir, "southeast_asia_landcover_2024_mosaic.tif")
-    
+    input_dir = r"D:\地理所\论文\东南亚10m人工林提取\数据\ESRI_2017_2023\2017年_分块裁剪"
+    output_dir = r"D:\地理所\论文\东南亚10m人工林提取\数据\ESRI_2017_20233"
+    output_file = os.path.join(output_dir, "southeast_asia_landcover_2017_mosaic_ESRI_10m.tif")
+   
     # 创建输出目录
     os.makedirs(output_dir, exist_ok=True)
     
