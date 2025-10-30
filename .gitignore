@@ -62,6 +62,8 @@ logs/
 *.rar
 *.7z
 *.tar.gz
+*.gpkg
+*.gdb/
 
 # Temporary files
 temp/
